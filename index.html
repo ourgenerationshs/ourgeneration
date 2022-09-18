@@ -55,9 +55,9 @@ description: "The homepage for OurGeneration Club at Sage Hill School."
 
     <div class="col-md-8 main-loop">
 
-        <h4 class="font-weight-bold spanborder"><span>Announcements</span></h4>
+        <h4 class="font-weight-bold spanborder"><span>Articles</span></h4>
 
-        {% assign pages_list = site.categories["Announcements"] %}
+        {% assign pages_list = site.categories["Articles"] %}
         {% for post in pages_list %}
             {% include main-loop-card.html %}
         {% endfor %}

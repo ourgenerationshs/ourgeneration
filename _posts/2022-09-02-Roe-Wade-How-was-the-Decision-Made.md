@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  " Roe v. Wade: How was the Decision Made?"
+subtitle: "looking back into the past…"
 author: Melody Yu
-categories: [ Announcements, News]
+categories: [Articles]
 image: assets/images/art_contestwinner.png
 tags: featured
 ---

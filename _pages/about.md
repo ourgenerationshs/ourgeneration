@@ -2,7 +2,7 @@
 title: "About"
 layout: page-image
 permalink: "/about"
-image: "/assets/images/ra-hero.jpg"
+image: "/assets/images/shs_towncenter.jpeg"
 ---
 
 Rancho's Associated Student Body/Leadership class is designed for the development of the elected/selected student leaders on campus (Student Council, School Site Council, and Advisment Representatives).  
