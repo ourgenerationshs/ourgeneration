@@ -8,7 +8,4 @@ tags: [sticky]
 ---
 
   
-We build connections between global current events & young adults in our generation. Thanks for stopping by!
-
-
-We’ll post articles, editions, and updates from Our Generation!
+We build connections between global current events & young adults in our generation. Thanks for stopping by! We’ll post articles, editions, and updates from Our Generation!
