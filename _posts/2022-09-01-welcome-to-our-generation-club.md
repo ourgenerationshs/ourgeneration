@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to  Ourgeneration Club Official Website!"
+title:  "Welcome to  Our Generation Club Official Website!"
 author: Melody Yu
 categories: [News, Articles]
 image: assets/images/ourgeneration.jpeg

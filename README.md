@@ -1,1 +1,1 @@
-# Home page for  Ourgeneration Club , Sage Hill School
+# Home page for  Our Generation Club , Sage Hill School

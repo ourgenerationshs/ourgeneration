@@ -1,6 +1,6 @@
 # Site
-name: "Ourgeneration Club"
-description: "This is homepage for SHS Ourgeneration Club."
+name: "Our Generation Club"
+description: "This is homepage for SHS Our Generation Club."
 logo: "assets/images/logo.png"
 favicon: "assets/images/favicon.ico"
 #baseurl: ''
@@ -22,7 +22,7 @@ authors:
     name: Melody Yu
     site: https://ranchoasb.github.io
     avatar: /assets/images/avatar1.jpg
-    bio: "This is a website for SHS Ourgeneration Club!"
+    bio: "This is a website for SHS Our Generation Club!"
     email: ranchoasb2020@gmail.com
     twitter:
 
