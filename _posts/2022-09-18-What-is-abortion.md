@@ -4,7 +4,7 @@ title:  "What is Abortion?"
 subtitle: "Just for clarity before you exploration here…"
 author: Melody Yu
 categories: [Articles]
-image: assets/images/ourgeneration.jpeg
+image: assets/images/abortionlogo.png
 tags: featured
 ---
 
