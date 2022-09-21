@@ -18,4 +18,4 @@ tags: featured
 
 The following timeline illustrates abortion rights in the top 10 most populous countries throughout the 19th-21st centuries:
 
-https://docs.google.com/presentation/d/15dXgcA3OgDoMh7alsNBFiPUPpGgrMoZ-ZLUpatha9Zw/edit?usp=sharing
+[Click me for timeline!](https://docs.google.com/presentation/d/15dXgcA3OgDoMh7alsNBFiPUPpGgrMoZ-ZLUpatha9Zw/edit?usp=sharing)
