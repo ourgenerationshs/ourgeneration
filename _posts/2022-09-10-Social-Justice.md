@@ -4,7 +4,7 @@ title:  "Social Justice: Landmark Supreme Court Decisions Then and Now"
 subtitle: "J looking beyond, “Plessy v. Ferguson” v. “Roe v. Wade”..."
 author: Melody Yu
 categories: [Articles]
-image: assets/images/ourgeneration.jpeg
+image: assets/images/plessy.png
 tags: featured
 ---
 
