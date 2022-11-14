@@ -28,3 +28,6 @@ image: "/assets/images/shs_towncenter.jpeg"
               <div class="p-name">Mirabelle Jiang</div>
               <div class="p-des">Assistant Editor-In-Chief</div>
             </div>
+    </div>
+  </div>
+</div>
