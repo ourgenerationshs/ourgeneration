@@ -5,8 +5,29 @@ permalink: "/about"
 image: "/assets/images/shs_towncenter.jpeg"
 ---
 
-Rancho's Associated Student Body/Leadership class is designed for the development of the elected/selected student leaders on campus (Student Council, School Site Council, and Advisment Representatives).  
+<div class="team-section">
+  <div class="inner-width">
+    <h2>Meet our team</h2>
+    <div class="pers">
 
-Students organize school-wide activities, promote school spirit and a positive school culture, develop leadership and communication skills, and work to represent the needs of the  SHSstudent body.  Students must complete an application packet to be considered.  Only students elected as an ASB Officer by their peers during the Student Council Elections and/or selected by faculty review will be enrolled in this course.  
+            <div class="pe">
+               <img src="{{ site.baseurl }}/assets/images/agtiger.png" alt="Person">
+              <div class="p-name">Chanah Yin</div>
+              <div class="p-des">Editor-In-Chief</div>
+            </div>
+      
+      
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/melodyimg.png" alt="Person">
+              <div class="p-name">Melody Yu</div>
+              <div class="p-des">Editor-In-Chief</div>
+            </div>
 
-For a list of all ASB activities and news events, please access Rancho's Events and News pages from the website's homepage.
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/pikachuwu.png" alt="Person">
+              <div class="p-name">Mirabelle Jiang</div>
+              <div class="p-des">Assistant Editor-In-Chief</div>
+            </div>
+    </div>
+  </div>
+</div>
