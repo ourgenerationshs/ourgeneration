@@ -42,7 +42,7 @@ permalink: "/team"
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/Annie.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/annie.png" alt="Person">
               <div class="p-name">Annie Zhu</div>
               <div class="p-des">Senior Editor</div>
             </div>
@@ -54,7 +54,7 @@ permalink: "/team"
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/brian.jpg" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/brian.jpeg" alt="Person">
               <div class="p-name">Brian Yu </div>
               <div class="p-des">Junior Editor</div>
             </div>
