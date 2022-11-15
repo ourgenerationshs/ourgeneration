@@ -9,6 +9,10 @@
 <lastmod>2022-09-02T00:00:00-07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/abortion-timeline/</loc>
+<lastmod>2022-09-02T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/Social-Justice/</loc>
 <lastmod>2022-09-10T00:00:00-07:00</lastmod>
 </url>
@@ -20,7 +24,7 @@
 <loc>http://localhost:4000/404/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/about</loc>
+<loc>http://localhost:4000/team</loc>
 </url>
 <url>
 <loc>http://localhost:4000/about</loc>
