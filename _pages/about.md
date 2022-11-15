@@ -84,13 +84,13 @@ permalink: "/team"
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/Lauren.PNG" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/Lauren.png" alt="Person">
               <div class="p-name">Lauren Baik</div>
               <div class="p-des">Art Director</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/Hannah.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/Hannah.jpg" alt="Person">
               <div class="p-name">Hannah Wegner</div>
               <div class="p-des">Film Director</div>
             </div>
