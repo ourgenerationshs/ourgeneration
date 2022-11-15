@@ -42,7 +42,7 @@ permalink: "/team"
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/annie.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/annie1.png" alt="Person">
               <div class="p-name">Annie Zhu</div>
               <div class="p-des">Senior Editor</div>
             </div>
@@ -60,43 +60,43 @@ permalink: "/team"
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/tony.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/tony1.png" alt="Person">
               <div class="p-name">Tony Tan</div>
               <div class="p-des">Outreach Director</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/maddie.jpg" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/maddie.jpeg" alt="Person">
               <div class="p-name">Maddie Chao </div>
               <div class="p-des">Creative Director</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/grace.jpg" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/grace.jpeg" alt="Person">
               <div class="p-name">Grace Yan</div>
               <div class="p-des">Research Director</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/Noah.jpg" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/noah.jpeg" alt="Person">
               <div class="p-name">Noah Jimenez</div>
               <div class="p-des">Communication Director</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/Lauren.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/lauren1.png" alt="Person">
               <div class="p-name">Lauren Baik</div>
               <div class="p-des">Art Director</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/Hannah.jpg" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/hannah.jpeg" alt="Person">
               <div class="p-name">Hannah Wegner</div>
               <div class="p-des">Film Director</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/Charlie.jpg" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/charlie.jpeg" alt="Person">
               <div class="p-name">Charlie </div>
               <div class="p-des">Mascot</div>
             </div>
