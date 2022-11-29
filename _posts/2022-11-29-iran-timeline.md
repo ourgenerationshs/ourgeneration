@@ -10,13 +10,13 @@ tags: featured
 
 Some statistics for you…. 
 
-_Women in Iran:_. 
+_Women in Iran:_   
 **42.12 million** women in Iran    
 **0.79 million** more men than women.  
 **101.89:100** male to female sex ratio. 
   
   
-_Deaths and arrests in Iran:_ 
+_Deaths and arrests in Iran:_  
 **19,378** people were killed from government intervention. 
 **1,500** fatalities from the protests. 
 **3** women sentenced to death in Tehran court for breaking the hijab dress code on July 31. 
