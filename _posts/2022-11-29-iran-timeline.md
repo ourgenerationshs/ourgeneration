@@ -16,13 +16,13 @@ _Women in Iran:_.
 **101.89:100** male to female sex ratio. 
   
   
-_Deaths and arrests in Iran:_. 
+_Deaths and arrests in Iran:_ 
 **19,378** people were killed from government intervention. 
 **1,500** fatalities from the protests. 
 **3** women sentenced to death in Tehran court for breaking the hijab dress code on July 31. 
   
     
-_Protests in Iran:_
+_Protests in Iran:_  
 **14,000** arrested due to protesting  
 **112** universities are on strike  
 **8+** weeks of protest 
