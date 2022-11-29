@@ -8,21 +8,24 @@ image: assets/images/abortion.png
 tags: featured
 ---
 
-Some statistics for you…
+Some statistics for you…. 
 
-__Women in Iran:__
-**42.12 million** women in Iran 
-**0.79 million** more men than women 
-**101.89:100** male to female sex ratio
+_Women in Iran:_. 
+**42.12 million** women in Iran    
+**0.79 million** more men than women.  
+**101.89:100** male to female sex ratio. 
   
-__Deaths and arrests in Iran:__
-**19,378** people were killed from government intervention
-**1,500** fatalities from the protests
-**3** women sentenced to death in Tehran court for breaking the hijab dress code on July 31
-__Protests in Iran:__
-**14,000** arrested due to protesting 
-**112** universities are on strike 
-**8+** weeks of protests
+  
+_Deaths and arrests in Iran:_. 
+**19,378** people were killed from government intervention. 
+**1,500** fatalities from the protests. 
+**3** women sentenced to death in Tehran court for breaking the hijab dress code on July 31. 
+  
+    
+_Protests in Iran:_
+**14,000** arrested due to protesting  
+**112** universities are on strike  
+**8+** weeks of protest 
     
 The following timeline illustrates the history of Iran's Morality Police: 
   
