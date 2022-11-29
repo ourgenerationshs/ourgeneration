@@ -5,7 +5,7 @@ subtitle: "looking back into the past…"
 author: Melody Yu
 categories: [Articles]
 image: assets/images/roevwade.png
-tags: featured
+tags: 
 ---
 
 Roe v. Wade was a legal decision made by the supreme court in 1973, striking down the Texas statute of criminalizing abortion. The decision made the statement that a woman’s right to abortion is part of the privacy that is protected in the 14th amendment. Before Roe v. Wade, states placed heavy restrictions on abortions, many of them illegalizing them. 
