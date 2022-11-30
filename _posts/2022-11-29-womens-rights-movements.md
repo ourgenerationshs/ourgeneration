@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Women's Rights Throughout History"
+title:  "Women's Rights: Movements"
 subtitle: "Historical movements.. "
 author: Sophia H
 categories: [Articles]
