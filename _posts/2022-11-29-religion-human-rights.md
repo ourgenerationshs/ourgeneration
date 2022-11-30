@@ -4,7 +4,7 @@ title:  "Religion and Human Rights"
 subtitle: "an open conversation..."
 author: Joyce Rizko
 categories: [Articles]
-image: assets/images/plessy.png
+image: assets/images/religion_human.png
 tags: featured
 ---
 
@@ -24,5 +24,5 @@ tags: featured
 <small> “Human rights.” Merriam-Webster.com Dictionary, Merriam-Webster,  [https://www.merriam- webster.com/dictionary/human%20rights](https://www.merriam- webster.com/dictionary/human%20rights). Accessed 17 Nov. 2022. </small>
 
 
-By Joyce Rizko
+By Joyce Rizko  
 Edited by ...
