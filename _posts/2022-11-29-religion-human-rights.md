@@ -24,5 +24,5 @@ tags: featured
 <small> “Human rights.” Merriam-Webster.com Dictionary, Merriam-Webster,  [https://www.merriam-webster.com/dictionary/religion]([https://www.merriam- webster.com/dictionary/human%20rights](https://www.merriam-webster.com/dictionary/religion)). Accessed 17 Nov. 2022. </small>
 
 
-By Joyce Rizko  
+by Joyce Rizko  
 Edited by ...
