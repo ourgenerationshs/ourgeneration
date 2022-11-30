@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Women's Rights Throughout History"
+title:  "Women's Rights: Movements"
 subtitle: "Historical movements.. "
 author: Sophia H
 categories: [Articles]
-image: assets/images/plessy.png
+image: assets/images/protests.png
 tags: featured
 ---
 
@@ -26,4 +26,5 @@ __March for Women’s Rights__
 In 2003, the Partial-Birth Abortion Act was passed, banning intact dilation and extraction, which was a surgical procedure that removes a fetus from a uterus. This procedure was used in the situation of a miscarriage or an abortion in the second and third trimesters of pregnancy. With the new act banning this procedure, it limited women’s freedom and their access to safe healthcare, endangering their lives. As a show of unity and spirit against this act, around 1.3 million people showed up to the March for Women’s Rights event on April 25, 2004. It was held in Washington, D.C. on the National Mall. This protest was organized by several associations like Planned Parenthood, NOW, Black Women’s Health Imperative, Feminist Majority, NARAL, National Latina Institute for Reproductive Health, and ACLU. While they were unable to achieve their goal of rescinding the act, it showed the determination of the pro-choice movement. 
   
 
-by Sophia Huang
+Written by Sophia Huang  
+Art by Chanah Yin

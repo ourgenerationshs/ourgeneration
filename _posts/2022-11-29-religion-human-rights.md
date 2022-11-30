@@ -4,7 +4,7 @@ title:  "Religion and Human Rights"
 subtitle: "an open conversation..."
 author: Joyce Rizko
 categories: [Articles]
-image: assets/images/plessy.png
+image: assets/images/religion_human.png
 tags: featured
 ---
 
@@ -18,11 +18,11 @@ tags: featured
 
 <small> Sources: </small>
 
-<small> “Religious Discrimination and Accommodation in the Federal Workplace.” United States Department of Labor, [https://www.dol.gov/agencies/oasam/civil-rights-center/internal/ policies/religious-discrimination-accommodation#:~:text=Title%20VII%20of%20the%20Civil,terms%20and%20co ditions%20of%20employment](https://www.dol.gov/agencies/oasam/civil-rights-center/internal/ policies/religious-discrimination-accommodation#:~:text=Title%20VII%20of%20the%20Civil,terms%20and%20co ditions%20of%20employment). Accessed 17 Nov. 2022.  </small>
+<small> “Religious Discrimination and Accommodation in the Federal Workplace.” United States Department of Labor, [https://www.dol.gov/agencies/oasam/civil-rights-center/internal/policies/religious-discrimination-accommodation#:~:text=Title%20VII%20of%20the%20Civil,terms%20and%20co](https://www.dol.gov/agencies/oasam/civil-rights-center/internal/policies/religious-discrimination-accommodation#:~:text=Title%20VII%20of%20the%20Civil,terms%20and%20co). Accessed 17 Nov. 2022.  </small>
 <small> “Iran - United States Department of State.” U.S. Department of State, U.S. Department of State, 2 June 2022, [https://www.state.gov/reports/2021-report-on-international-religious-freedom /iran/#:~:text=Since%201999%2C%20Iran%20has%20been,redesignated%20Iran%20as%20a%20CPC](https://www.state.gov/reports/2021-report-on-international-religious-freedom /iran/#:~:text=Since%201999%2C%20Iran%20has%20been,redesignated%20Iran%20as%20a%20CPC) Accessed 17 Nov. 2022.  </small>
-<small> “Religion.” Merriam-Webster.com Dictionary, Merriam-Webster, [https://www.merriam-webster. com/dictionary/religion](https://www.merriam-webster. com/dictionary/religion). Accessed 17 Nov. 2022.  </small>
-<small> “Human rights.” Merriam-Webster.com Dictionary, Merriam-Webster,  [https://www.merriam- webster.com/dictionary/human%20rights](https://www.merriam- webster.com/dictionary/human%20rights). Accessed 17 Nov. 2022. </small>
+<small> “Religion.” Merriam-Webster.com Dictionary, Merriam-Webster, [https://www.merriam-webster.com/dictionary/religion](https://www.merriam-webster. com/dictionary/religion). Accessed 17 Nov. 2022.  </small>
+<small> “Human rights.” Merriam-Webster.com Dictionary, Merriam-Webster,  [https://www.merriam-webster.com/dictionary/religion]([https://www.merriam- webster.com/dictionary/human%20rights](https://www.merriam-webster.com/dictionary/religion)). Accessed 17 Nov. 2022. </small>
 
 
-By Joyce Rizko
-Edited by ...
+Written by Joyce Rizko  
+Art by Maddie Chao
