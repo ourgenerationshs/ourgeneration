@@ -38,7 +38,4 @@ tags: featured
  </small>
 
 
-By Sophia Huang
-
-By Joyce Rizko  
-Edited by ...
+by Sophia Huang
