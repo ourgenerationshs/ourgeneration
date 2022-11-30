@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "What is Abortion?"
-subtitle: "Just for clarity before your exploration here…"
+title:  "Mahsa Amini’s Death Triggers Major Protest in Iran"
+subtitle: ""
 author: Aava 
 categories: [Articles]
 image: assets/images/abortioninfo.jpeg
