@@ -36,7 +36,7 @@ permalink: "/team"
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/Shiksha.jpg" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/shikshaa.jpeg" alt="Person">
               <div class="p-name">Shiksha Anand </div>
               <div class="p-des">Senior Editor</div>
             </div>
@@ -65,6 +65,12 @@ permalink: "/team"
               <div class="p-des">Outreach Director</div>
             </div>
 
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/sophiah.png" alt="Person">
+              <div class="p-name">Sophia Huang </div>
+              <div class="p-des">Writing Director</div>
+            </div>
+      
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/maddie.jpeg" alt="Person">
               <div class="p-name">Maddie Chao </div>
