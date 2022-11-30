@@ -25,6 +25,21 @@ In Saudi Arabia, the government placed a ban to prevent women from driving in 19
 __March for Women’s Rights__   
 In 2003, the Partial-Birth Abortion Act was passed, banning intact dilation and extraction, which was a surgical procedure that removes a fetus from a uterus. This procedure was used in the situation of a miscarriage or an abortion in the second and third trimesters of pregnancy. With the new act banning this procedure, it limited women’s freedom and their access to safe healthcare, endangering their lives. As a show of unity and spirit against this act, around 1.3 million people showed up to the March for Women’s Rights event on April 25, 2004. It was held in Washington, D.C. on the National Mall. This protest was organized by several associations like Planned Parenthood, NOW, Black Women’s Health Imperative, Feminist Majority, NARAL, National Latina Institute for Reproductive Health, and ACLU. While they were unable to achieve their goal of rescinding the act, it showed the determination of the pro-choice movement. 
   
+  
+
+<small> Sources: </small>
+
+<small> Begum, Rothna. “The Brave Female Activists Who Fought to Lift Saudi Arabia's Driving Ban.” Human Rights Watch, 29 September 2017, [https://www.hrw.org/news/2017/09/29/brave-female-activists-who-fought-lift-saudi-arabias-driving-ban](https://www.hrw.org/news/2017/09/29/brave-female-activists-who-fought-lift-saudi-arabias-driving-ban). Accessed 29 November 2022 </small>  
+<small> Bonney, Shannon. “March for Women's Lives | Duke Social Movements.” Social Movements, [https://socialmovements.trinity.duke.edu/actions/march-women%E2%80%99s-lives](https://socialmovements.trinity.duke.edu/actions/march-women%E2%80%99s-lives). Accessed 29 November 2022.
+ Accessed 29 November 2022.
+ </small>  
+<small>“A Brief History of Women's Protests - TIME.” Videos Index on TIME.com, [http://content.time.com/time/specials/packages/completelist/0,29569,2088114,00.html](http://content.time.com/time/specials/packages/completelist/0,29569,2088114,00.html). Accessed 29 November 2022.
+ </small>
+<small> Hilfrank, Elizabeth. “Womens Suffrage Movement.” National Geographic Kids, [https://kids.nationalgeographic.com/history/article/womens-suffrage-movement](https://kids.nationalgeographic.com/history/article/womens-suffrage-movement). Accessed 29 November 2022.
+</small>  
+<small> “100 Women: The truth behind the 'bra-burning' feminists.” BBC, 7 September 2018, [https://www.bbc.com/news/world-45303069](https://www.bbc.com/news/world-45303069). Accessed 29 November 2022.
+
+ </small>  
 
 Written by Sophia Huang  
 Art by Chanah Yin
