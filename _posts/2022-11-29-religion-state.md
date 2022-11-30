@@ -4,7 +4,7 @@ title:  "Religious and Government Separation"
 subtitle: "Should religion and state be separated and why?"
 author: Brian Yu
 categories: [Articles]
-image: assets/images/religion_gove.png
+image: assets/images/religion_gove.jpeg
 tags: featured
 ---
   
