@@ -24,4 +24,4 @@ tags: featured
   
   Religion and government are incompatible, though religion is a broad term that defines much more than the examples mentioned above. “Religion” as a noun has a specific definition, but you can be “religiously” committed to many things. In the context of government, you can expand the meaning of the word to include atheism, societal ownership of means of production (socialism), personality cults (Stalin, Mao), confucianism, and so on, goals that governments are so vested in that they act similarly to religious states in dedication and sometimes, cruelty. Religion and state must separate, but we should also be aware of the danger of religious devotion elsewhere, for, the government serves the people first, not their obsessions.  
   
-By Brian Yu
+by Brian Yu
