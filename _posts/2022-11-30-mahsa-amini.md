@@ -4,7 +4,7 @@ title:  "Mahsa Amini’s Death Triggers Major Protest in Iran"
 subtitle: ""
 author: Aava 
 categories: [Articles]
-image: assets/images/abortioninfo.jpeg
+image: assets/images/iran_timeline.jpeg
 tags: featured
 ---
   
@@ -17,4 +17,4 @@ tags: featured
   Amini’s death has broken the hearts of many people from different backgrounds, as it portrayed another example of a government making decisions that many considers as against moral principals. However, it has also opened people’s eyes to some of the horrors that occur when the government interweaves religion with everyday life. This event caused a roaring call for change in society from many, and these women will continue to voice their opposition to the government until Iran transforms for the better. We can only hope that this thorn of lasting pain changes into a blossoming new flower of the future for Iran.
   
   
-by Aava Ghorbanian  
+Written by Aava Ghorbanian  
