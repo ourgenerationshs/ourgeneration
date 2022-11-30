@@ -3,7 +3,7 @@ layout: post
 title:  "Abortion Around the World"
 subtitle: "for those visual thinkers..."
 author: Melody Yu
-categories: [Articles]
+categories: [News]
 image: assets/images/abortion.png
 tags: featured
 ---
