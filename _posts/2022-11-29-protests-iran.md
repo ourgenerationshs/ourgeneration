@@ -38,4 +38,5 @@ tags: featured
  </small>
 
 
-by Sophia Huang
+Written by Sophia Huang
+Art by Chanah Yin
