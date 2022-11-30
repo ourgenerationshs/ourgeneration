@@ -4,7 +4,7 @@ title:  "Women's Rights: Movements"
 subtitle: "Historical movements.. "
 author: Sophia H
 categories: [Articles]
-image: assets/images/plessy.png
+image: assets/images/protests.png
 tags: featured
 ---
 
