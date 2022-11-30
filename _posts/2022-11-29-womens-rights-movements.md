@@ -37,9 +37,7 @@ In 2003, the Partial-Birth Abortion Act was passed, banning intact dilation and 
  </small>
 <small> Hilfrank, Elizabeth. “Womens Suffrage Movement.” National Geographic Kids, [https://kids.nationalgeographic.com/history/article/womens-suffrage-movement](https://kids.nationalgeographic.com/history/article/womens-suffrage-movement). Accessed 29 November 2022.
 </small>  
-<small> “100 Women: The truth behind the 'bra-burning' feminists.” BBC, 7 September 2018, [https://www.bbc.com/news/world-45303069](https://www.bbc.com/news/world-45303069). Accessed 29 November 2022.
-
- </small>  
+<small> “100 Women: The truth behind the 'bra-burning' feminists.” BBC, 7 September 2018, [https://www.bbc.com/news/world-45303069](https://www.bbc.com/news/world-45303069). Accessed 29 November 2022. </small>    
 
 Written by Sophia Huang  
 Art by Chanah Yin
