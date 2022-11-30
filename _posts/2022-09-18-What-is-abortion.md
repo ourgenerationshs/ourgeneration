@@ -3,7 +3,7 @@ layout: post
 title:  "What is Abortion?"
 subtitle: "Just for clarity before your exploration here…"
 author: Melody Yu
-categories: [Articles]
+categories: [News]
 image: assets/images/abortioninfo.jpeg
 tags: featured
 ---
