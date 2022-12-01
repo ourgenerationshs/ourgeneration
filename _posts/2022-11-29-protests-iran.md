@@ -4,7 +4,7 @@ title:  "Protests in Iran"
 subtitle: ""
 author: Sophia Huang
 categories: [Articles]
-image: assets/images/iran_world.png
+image: assets/images/protests.png
 tags: featured
 ---
 
