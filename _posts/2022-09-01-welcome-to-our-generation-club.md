@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Our Generation!"
 author: Melody Yu
 categories: [News, Articles]
-image: assets/images/ourgeneration.jpeg
+image: assets/images/ourgenheader.png
 tags: [sticky]
 ---
 
