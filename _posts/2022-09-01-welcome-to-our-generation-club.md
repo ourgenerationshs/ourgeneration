@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Our Generation!"
-author: Melody Yu
-categories: [News, Articles]
+title: "Welcome to Our Generation!"
+author: Sage Hill Our Generation Club
+categories: [welcome]
 image: assets/images/ourgenheader.png
-tags: [sticky]
 ---
 
-  
 We build connections between global current events & young adults in our generation. Thanks for stopping by! We’ll post articles, editions, and updates from Our Generation!
+[label](http://localhost:4000/new-issue/)

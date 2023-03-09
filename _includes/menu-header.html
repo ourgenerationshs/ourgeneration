@@ -1,14 +1,27 @@
 <!--  Replace menu links here -->
 
+            <!-- Begin Menu -->
+            <ul class="navbar-nav ml-auto">
+
 <li class="nav-item">
 <a class="nav-link" href="{{site.baseurl}}/index.html">Home</a>
 </li>
 <li class="nav-item">
-<a class="nav-link" href="{{site.baseurl}}/articles">Current Issue</a>
+<a class="nav-link" href="{{site.baseurl}}/current">Current Issue</a>
 </li>
-<li class="nav-item">
-<a class="nav-link" href="{{site.baseurl}}/news">Past Issues </a>
-</li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="" id="navbarDropdown"
+                        role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Past Issues
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="border: 1px solid #eceeef;">
+                        <a class="dropdown-item" href="{{ site.baseurl }}/workers-right">World Cup And Worker's Rights</a>
+                        <a class="dropdown-item" href="{{ site.baseurl }}/women-right">Women's Rights</a>
+                        <a class="dropdown-item" href="{{ site.baseurl }}/abortion">Abortion</a>
+                    </div>
+                </li>
 <li class="nav-item">
 <a class="nav-link" href="{{site.baseurl}}/team">Team</a>
 </li>
+            </ul>
+            <!-- End Menu -->
