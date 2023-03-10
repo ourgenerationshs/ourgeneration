@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Historical Figures in Workers Right"
+title: "Historical Figures in Workers Rights"
 subtitle: ""
 author: Yusong Liang
 categories: [World Cup and Worker's Rights]

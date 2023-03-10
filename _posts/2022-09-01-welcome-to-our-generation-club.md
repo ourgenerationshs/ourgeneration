@@ -7,4 +7,3 @@ image: assets/images/ourgenheader.png
 ---
 
 We build connections between global current events & young adults in our generation. Thanks for stopping by! We’ll post articles, editions, and updates from Our Generation!
-[label](http://localhost:4000/new-issue/)

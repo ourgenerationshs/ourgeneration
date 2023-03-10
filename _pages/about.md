@@ -12,7 +12,7 @@ permalink: "/team"
             <div class="pe">
                <img src="{{ site.baseurl }}/assets/images/Chanah.JPEG" alt="Person">
               <div class="p-name">Chanah Yin</div>
-              <div class="p-des">Editor in Chief</div>
+              <div class="p-des">Founder, Editor in Chief</div>
             </div>
 
 
@@ -70,7 +70,7 @@ permalink: "/team"
               <div class="p-name">Sophia Huang </div>
               <div class="p-des">Writing Director</div>
             </div>
-      
+
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/maddie.jpeg" alt="Person">
               <div class="p-name">Maddie Chao </div>
@@ -101,13 +101,18 @@ permalink: "/team"
               <div class="p-des">Film Director</div>
             </div>
 
+
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/aava.png" alt="Person">
+              <div class="p-name">Aava Ghorbanian</div>
+              <div class="p-des">Writer</div>
+            </div>
+
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/charlie.jpeg" alt="Person">
               <div class="p-name">Charlie </div>
               <div class="p-des">Mascot</div>
             </div>
-
-
     </div>
 
   </div>
