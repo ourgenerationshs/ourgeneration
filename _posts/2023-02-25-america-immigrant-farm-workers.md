@@ -4,7 +4,7 @@ title: "America’s Immigrant Farm Workers"
 subtitle: ""
 author: Sophia Huang
 categories: [World Cup and Worker's Rights]
-image: assets/images/iran_timeline.jpeg
+image: assets/images/grab.jpg
 tags:
 ---
 

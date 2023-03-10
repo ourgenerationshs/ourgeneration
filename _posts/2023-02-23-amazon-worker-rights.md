@@ -4,7 +4,7 @@ title: "Amazon's Worker's Rights (or lack of them)"
 subtitle: ""
 author: Aava Ghorbanian
 categories: [World Cup and Worker's Rights]
-image: assets/images/iran_timeline.jpeg
+image: assets/images/amazon.png
 tags:
 ---
 

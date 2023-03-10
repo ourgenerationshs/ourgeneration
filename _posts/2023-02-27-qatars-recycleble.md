@@ -4,7 +4,7 @@ title: "Qatar’s Recycleble Soccer Stadium"
 subtitle: ""
 author: Brian Yu
 categories: [World Cup and Worker's Rights]
-image: assets/images/iran_timeline.jpeg
+image: assets/images/stadium.jpg
 tags: featured
 ---
 

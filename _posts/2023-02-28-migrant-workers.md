@@ -4,7 +4,7 @@ title: "Migrant Workers under the Extravaganza"
 subtitle: ""
 author: Annie Zhu
 categories: [World Cup and Worker's Rights]
-image: assets/images/iran_timeline.jpeg
+image: assets/images/abuse.jpeg
 tags: featured
 ---
 

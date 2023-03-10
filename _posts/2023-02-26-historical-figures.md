@@ -4,7 +4,7 @@ title: "Historical Figures in Workers Right"
 subtitle: ""
 author: Yusong Liang
 categories: [World Cup and Worker's Rights]
-image: assets/images/iran_timeline.jpeg
+image: assets/images/hourglass.jpeg
 tags:
 ---
 

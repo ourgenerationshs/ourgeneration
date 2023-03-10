@@ -4,7 +4,7 @@ title: "Gender Inequality in Industries"
 subtitle: ""
 author: Joyce Rizko
 categories: [World Cup and Worker's Rights]
-image: assets/images/iran_timeline.jpeg
+image: assets/images/compare.jpeg
 tags:
 ---
 

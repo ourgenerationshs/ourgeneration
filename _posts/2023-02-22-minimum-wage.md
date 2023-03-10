@@ -4,7 +4,7 @@ title: "Minimum Wage Sick Days and the Problems With Worker's Rights"
 subtitle: ""
 author: Eliška Levisohn
 categories: [World Cup and Worker's Rights]
-image: assets/images/iran_timeline.jpeg
+image: assets/images/rights.png
 tags:
 ---
 

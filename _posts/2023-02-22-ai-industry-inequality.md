@@ -4,7 +4,7 @@ title: "Inequalities in the AI industry"
 subtitle: ""
 author: Joyce Wang
 categories: [World Cup and Worker's Rights]
-image: assets/images/iran_timeline.jpeg
+image: assets/images/robot.png
 tags:
 ---
 
