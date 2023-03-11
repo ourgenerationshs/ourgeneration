@@ -6,6 +6,23 @@ enabled: true
 description: "The homepage for Our Generation Club at Sage Hill School."
 ---
 
+<script>
+  
+  function setHeight()  {
+    var col = document.getElementById("column");
+    var height = col.clientHeight;
+    console.log(height);
+    var vid = document.getElementById("vid");
+    var vid2 = document.getElementById("vid2");
+    var h2 = vid2.clientHeight;
+    console.log(h2);
+    vid.style.setProperty('padding', (height - 360) / 2 + 'px 0');
+    // vid2.style.setProperty('padding', (height - h2) / 2 + 'px 0');
+       
+  }  
+    window.onload = setHeight;
+  
+</script>
 
 <div class="container">
 
@@ -17,17 +34,20 @@ description: "The homepage for Our Generation Club at Sage Hill School."
     <!-- latest post -->
     {% assign latest_post = site.posts.last %}
 
-    <div class="col-lg-6">
-                <div class="video-content mt-50 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
-                  <div class="video-wrapper">
-                    <iframe width="640" height="360" src="https://www.youtube.com/embed/twBViulobeE" frameborder="0"
+    <div class="col-lg-6 center" id="column">
+      <div id="vid">
+                <div class="video-content wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
+                  <div id="vid2" class="video-wrapper">
+                    <iframe  width="640" height="360" src="https://www.youtube.com/embed/twBViulobeE" frameborder="0"
                       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                       allowfullscreen></iframe>
                   </div> <!-- video wrapper -->
+
                 </div> <!-- video content -->
+                </div>
     </div>
 
-    <div class="col-md-6">
+    <div class="col-md-6" >
 
       <!-- second latest post -->
       {%- assign second_post = site.posts[1] -%}
