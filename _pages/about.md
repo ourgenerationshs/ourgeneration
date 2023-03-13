@@ -10,7 +10,7 @@ permalink: "/team"
     <div class="pers">
 
             <div class="pe">
-               <img src="{{ site.baseurl }}/assets/images/Chanah.JPEG" alt="Person">
+               <img src="{{ site.baseurl }}/assets/images/chanahyin.jpg" alt="Person">
               <div class="p-name">Chanah Yin</div>
               <div class="p-des">Founder, Editor in Chief</div>
             </div>
@@ -36,11 +36,11 @@ permalink: "/team"
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/shikshaa.jpeg" alt="Person">
-              <div class="p-name">Shiksha Anand </div>
+              <img src="{{ site.baseurl }}/assets/images/brian.jpeg" alt="Person">
+              <div class="p-name">Brian Yu</div>
               <div class="p-des">Senior Editor</div>
             </div>
-
+      
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/annie1.png" alt="Person">
               <div class="p-name">Annie Zhu</div>
@@ -48,14 +48,14 @@ permalink: "/team"
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/Raquel.jpg" alt="Person">
-              <div class="p-name">Raquel Rybakova</div>
+              <img src="{{ site.baseurl }}/assets/images/sophiah.png" alt="Person">
+              <div class="p-name">Sophia Huang</div>
               <div class="p-des">Junior Editor</div>
             </div>
-
+      
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/brian.jpeg" alt="Person">
-              <div class="p-name">Brian Yu </div>
+              <img src="{{ site.baseurl }}/assets/images/Raquel.jpg" alt="Person">
+              <div class="p-name">Raquel Rybakova</div>
               <div class="p-des">Junior Editor</div>
             </div>
 
@@ -66,14 +66,14 @@ permalink: "/team"
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/sophiah.png" alt="Person">
-              <div class="p-name">Sophia Huang </div>
+              <img src="{{ site.baseurl }}/assets/images/joycer.jpg" alt="Person">
+              <div class="p-name">Joyce Rizko</div>
               <div class="p-des">Writing Director</div>
             </div>
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/maddie.jpeg" alt="Person">
-              <div class="p-name">Maddie Chao </div>
+              <div class="p-name">Maddie Chao</div>
               <div class="p-des">Creative Director</div>
             </div>
 
@@ -101,9 +101,14 @@ permalink: "/team"
               <div class="p-des">Film Director</div>
             </div>
 
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/shikshaa.jpeg" alt="Person">
+              <div class="p-name">Shiksha Anand </div>
+              <div class="p-des">Editor</div>
+            </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/aava.png" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/aavag.png" alt="Person">
               <div class="p-name">Aava Ghorbanian</div>
               <div class="p-des">Writer</div>
             </div>
