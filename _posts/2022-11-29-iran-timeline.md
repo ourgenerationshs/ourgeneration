@@ -4,7 +4,7 @@ title: "History of Iran's Morality Police: How Controversial are They?"
 subtitle: "for those visual thinkers..."
 author: Sophia Lin
 categories: [Women's Rights]
-image: assets/images/iran_timeline.jpeg
+image: assets/images/moralitypolice.png
 tags: featured
 ---
 
