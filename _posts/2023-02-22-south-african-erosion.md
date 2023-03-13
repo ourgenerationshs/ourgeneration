@@ -2,9 +2,9 @@
 layout: post
 title: "South African Erosion of Workers’ Rights"
 subtitle: ""
-author: Frankie Lewittton
+author: Frankie Lewitton
 categories: [World Cup and Worker's Rights]
-image: assets/images/iran_timeline.jpeg
+image: assets/images/southafrica.png
 tags:
 ---
 
