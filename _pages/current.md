@@ -6,8 +6,8 @@ permalink: "/current"
 
 <div class="container">
     <div class="row justify-content-center">
-        <h4 class="font-weight-bold spanborder text-capitalize"><span>World Cup and Worker's Rights Issue</span></h4>
-        {% assign pages_list = site.categories["World Cup and Worker's Rights"] %}
+        <h4 class="font-weight-bold spanborder text-capitalize"><span>Earthquakes in Turkey And Environmental Issues</span></h4>
+        {% assign pages_list = site.categories["Earthquakes in Turkey/Environmental Issues"] %}
         {% for post in pages_list %}
         {% if post.title != null %}
           {% if group == null or group == post.group %}
