@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Editors Letter"
+title: "Editor's Letter of March 2023 Issue"
 subtitle: ""
 author: Chanah Yin, Melody Yu
 categories: [Earthquakes in Turkey/Environmental Issues]

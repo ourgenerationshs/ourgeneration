@@ -4,20 +4,24 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Categories | Our Generation</title>
+    <title>The Kahramanmaras Earthquake | Our Generation</title>
 
     <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Categories | Our Generation</title>
+<title>The Kahramanmaras Earthquake | Our Generation</title>
 <meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="Categories" />
+<meta property="og:title" content="The Kahramanmaras Earthquake" />
+<meta name="author" content="Annie Zhu" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="This is homepage for SHS Our Generation Club." />
-<meta property="og:description" content="This is homepage for SHS Our Generation Club." />
-<link rel="canonical" href="http://localhost:4000/issues" />
-<meta property="og:url" content="http://localhost:4000/issues" />
+<meta name="description" content="On February 6th, 2023, two devastating earthquakes struck Turkey at its Syrian border. Following the first magnitude 7.8 earthquake, another magnitude 7.5 earthquake hit nine hours later. Thousands of people were killed and billions of dollars were lost from physical damage. The state authorities urgently declared a level 4 emergency and called for international assistance while the death toll climbed rapidly. To date, more than 9.1 million people have been affected, and more than 45,000 people were killed in this incident. By March 1, 2023, more than 11,000 aftershocks in the region have also added to the devastation. This earthquake is one of the largest in Turkey’s history, along with the 1668 North Anatolia earthquake and the 1939 Erzincan earthquake. One thing is certain – the destructive consequences of the event will remain for years to come." />
+<meta property="og:description" content="On February 6th, 2023, two devastating earthquakes struck Turkey at its Syrian border. Following the first magnitude 7.8 earthquake, another magnitude 7.5 earthquake hit nine hours later. Thousands of people were killed and billions of dollars were lost from physical damage. The state authorities urgently declared a level 4 emergency and called for international assistance while the death toll climbed rapidly. To date, more than 9.1 million people have been affected, and more than 45,000 people were killed in this incident. By March 1, 2023, more than 11,000 aftershocks in the region have also added to the devastation. This earthquake is one of the largest in Turkey’s history, along with the 1668 North Anatolia earthquake and the 1939 Erzincan earthquake. One thing is certain – the destructive consequences of the event will remain for years to come." />
+<link rel="canonical" href="http://localhost:4000/Kahramanmaras-Earthquake/" />
+<meta property="og:url" content="http://localhost:4000/Kahramanmaras-Earthquake/" />
 <meta property="og:site_name" content="Our Generation" />
+<meta property="og:image" content="http://localhost:4000/assets/images/History%20of%20Earthquakes%20around%20the%20world.jpeg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-03-10T00:00:00-08:00" />
 <script type="application/ld+json">
-{"headline":"Categories","url":"http://localhost:4000/issues","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/logo.png"}},"description":"This is homepage for SHS Our Generation Club.","@type":"WebPage","@context":"http://schema.org"}</script>
+{"headline":"The Kahramanmaras Earthquake","dateModified":"2023-03-10T00:00:00-08:00","datePublished":"2023-03-10T00:00:00-08:00","url":"http://localhost:4000/Kahramanmaras-Earthquake/","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/Kahramanmaras-Earthquake/"},"image":"http://localhost:4000/assets/images/History%20of%20Earthquakes%20around%20the%20world.jpeg","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/logo.png"},"name":"Annie Zhu"},"author":{"@type":"Person","name":"Annie Zhu"},"description":"On February 6th, 2023, two devastating earthquakes struck Turkey at its Syrian border. Following the first magnitude 7.8 earthquake, another magnitude 7.5 earthquake hit nine hours later. Thousands of people were killed and billions of dollars were lost from physical damage. The state authorities urgently declared a level 4 emergency and called for international assistance while the death toll climbed rapidly. To date, more than 9.1 million people have been affected, and more than 45,000 people were killed in this incident. By March 1, 2023, more than 11,000 aftershocks in the region have also added to the devastation. This earthquake is one of the largest in Turkey’s history, along with the 1668 North Anatolia earthquake and the 1939 Erzincan earthquake. One thing is certain – the destructive consequences of the event will remain for years to come.","@type":"BlogPosting","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"
@@ -114,7 +118,7 @@ var documents = [{
     "id": 1,
     "url": "http://localhost:4000/abortion",
     "title": "Abortion",
-    "body": "      Abortion Issue:                        		What is Abortion?	: 		  Abortion. A widely controversial topic that has been hotly debated and discussed, especially in the past year with the overturning of Roe v. Wade. 	 			Melody Yu						                            		Social Justice: Landmark Supreme Court Decisions Then and Now	: 		  The Reconstruction Era, a nationwide effort to rebuild and stabilize the country after the Civil War and assimilate freed slaves into society with their newly conferred rights, had of. . . 	 			Melody Yu						                            		Abortion Around the World	: 		  Let’s explore abortion around the world, in a visual format. 	 			Melody Yu						                            		 Roe v. Wade: How was the Decision Made?	: 		  Roe v. Wade was a legal decision made by the supreme court in 1973, striking down the Texas statute of criminalizing abortion. The decision made the statement that a woman’s right to . . . 	 			Melody Yu						                       "
+    "body": "      Abortion Issue:     {% assign pages_list = site. categories[ Abortion ] %}    {% for post in pages_list %}    {% if post. title != null %}     {% if group == null or group == post. group %}      {% include main-loop-card. html %}     {% endif %}    {% endif %}    {% endfor %}    {% assign pages_list = nil %}    {% assign group = nil %}  "
     }, {
     "id": 2,
     "url": "http://localhost:4000/about",
@@ -129,27 +133,27 @@ var documents = [{
     "id": 4,
     "url": "http://localhost:4000/articles",
     "title": "Categories",
-    "body": "      Articles:                   "
+    "body": "      Articles:     {% assign pages_list = site. categories[ Articles ] %}    {% for post in pages_list %}    {% if post. title != null %}     {% if group == null or group == post. group %}      {% include main-loop-card. html %}     {% endif %}    {% endif %}    {% endfor %}    {% assign pages_list = nil %}    {% assign group = nil %}  "
     }, {
     "id": 5,
     "url": "http://localhost:4000/categories.html",
     "title": "Categories",
-    "body": "              welcome:                        		Welcome to Our Generation!	: 		  We build connections between global current events &amp; young adults in our generation. Thanks for stopping by! We’ll post articles, editions, and updates from Our Generation!	 			Sage Hill Our Generation Club						                             Abortion:                        		What is Abortion?	: 		  Abortion. A widely controversial topic that has been hotly debated and discussed, especially in the past year with the overturning of Roe v. Wade. 	 			Melody Yu						                            		Social Justice: Landmark Supreme Court Decisions Then and Now	: 		  The Reconstruction Era, a nationwide effort to rebuild and stabilize the country after the Civil War and assimilate freed slaves into society with their newly conferred rights, had of. . . 	 			Melody Yu						                            		Abortion Around the World	: 		  Let’s explore abortion around the world, in a visual format. 	 			Melody Yu						                            		 Roe v. Wade: How was the Decision Made?	: 		  Roe v. Wade was a legal decision made by the supreme court in 1973, striking down the Texas statute of criminalizing abortion. The decision made the statement that a woman’s right to . . . 	 			Melody Yu						                             Women's Rights:                        		Mahsa Amini’s Death Triggers Major Protest in Iran	: 		  Mahsa Amini, a 22-year-old Iranian woman, died in custody on September 16, 2022. Iranian authorities arrested and transported her to a detention center because she did not completely . . . 	 			Aava						                            		Women's Rights: Movements	: 		  Throughout history, there have been similar protests for women’s rights to the ones happening in Iran. While there are so many, the mentioned below are some of the more well known mov. . . 	 			Sophia H						                            		Religious and Government Separation	: 		  A hijab is a head covering worn by Muslim women, mandated by law in majority of the Middle Eastern countries, like Iran and Afghanistan. The recent death of Mahsa Amini in Morality Po. . . 	 			Brian Yu						                            		Religion and Human Rights	: 		  The recent event of Mahsa Amini has left room for debate of what takes precedence nationwide: religion or human rights. Religion is a system of attitudes, beliefs, and practices (Marr. . . 	 			Joyce Rizko						                            		Protests in Iran	: 		  Women’s subordination within our patriarchal society originated from the labor division during the Neolithic Era, where women assumed a domestic role, while men acted as the providers. . . 	 			Sophia Huang						                            		History of Iran's Morality Police: How Controversial are They?	: 		  Some statistics for you…. 	 			Sophia Lin						                             World Cup and Worker's Rights:                        		Underneath the Blinding Lights	: 		  The crowd roars as the ball is jousted into the air. The cry of the stadium swings with the ball like a pendulum. At this moment, both sides of the stadium scream their war cries for . . . 	 			Oneal Wang						                            		Migrant Workers under the Extravaganza	: 		  As one of the most important sporting events in the world, the FIFA World Cup in Qatar had over 5. 4 billion viewers. Since the announcement of the Qatar World Cup in December 2010, co. . . 	 			Annie Zhu						                            		Qatar’s Recycleble Soccer Stadium	: 		  Stadium 974 is one of the most unique stadiums ever built, and it is important to consider its impact on sustainability when looking at the broader construction of stadiums in general. . . 	 			Brian Yu						                            		Historical Figures in Workers Rights	: 		  During the Industrial Revolution, America transformed from an agricultural country to an industrialized one. With the emergence of large industrialists such as John D. Rockefeller wit. . . 	 			Yusong Liang						                            		America’s Immigrant Farm Workers	: 		  From the beginning Immigrants built America and continues to power it, making up more than a third of workers in some industries. They continue to improve our economy, creating compan. . . 	 			Sophia Huang						                            		Gender Inequality in Industries	: 		  Gender equality in the workplace has been a concern since the 19th century. Since then, the number of working women has risen astronomical amounts. However, this change is not exclusi. . . 	 			Joyce Rizko						                            		Amazon's Worker's Rights (or lack of them)	: 		  For years, Amazon has been at the forefront of controversy about the treatment of its workers. Though the company denies its infractions of workers rights, critics have exposed how de. . . 	 			Aava Ghorbanian						                            		South African Erosion of Workers’ Rights	: 		  The single-room tin homes of South Africa’s 500+ townships are testaments to the radical inequality that remains as a legacy of Apartheid, South Africa’s past oppressive system of gov. . . 	 			Frankie Lewitton						                            		Minimum Wage Sick Days and the Problems With Worker's Rights	: 		  Though we view the United States as a whole, labor laws vary from state to state, and many simply chalk these variances up to differences in political parties. Yet, labor laws in blue. . . 	 			Eliška Levisohn						                            		Inequalities in the AI industry	: 		  The AI industry, like many technology sectors, has faced criticism for a lack of diversity and unequal treatment of certain groups. This can manifest in a variety of ways, such as div. . . 	 			Joyce Wang						                             Earthquakes in Turkey/Environmental Issues:                        		Editor's Letter of March 2023 Issue	: 		  Hello, we’re the Editors in Chief of Our Gen! Thank you for reading the March 2023 issue of Our Gen. Our goal for our club is to connect the teenagers in our current digital age to ma. . . 	 			Chanah Yin, Melody Yu						                            		The Kahramanmaras Earthquake	: 		  On February 6th, 2023, two devastating earthquakes struck Turkey at its Syrian border. Following the first magnitude 7. 8 earthquake, another magnitude 7. 5 earthquake hit nine hours la. . . 	 			Annie Zhu						                            		History of Earthquakes Around the World	: 		  Small earthquakes are quite common worldwide; a million or so happen each year. However, certain places are more susceptible to earthquakes due to their location near the seven major . . . 	 			Eliška Levisohn						                            		Impacts of Earthquakes in Turkey	: 		  On February 6th, 2023, Turkey was hit by a powerful earthquake with a magnitude of 6. 9. It struck the eastern province of Van, causing extensive damage to buildings and infrastructure. . . 	 			Sophia Huang						                            		Comparison of Turkey and California Earthquakes	: 		  Earthquakes prove to be one of the most unique and dangerous natural disasters due to their unpredictability and invisibility. While people do not consistently fear them, even the sli. . . 	 			Joyce Rizko						                            		Turkey-Syria Earthquake and Its Impact on Mental Health	: 		  On February 6, 2023, a catastrophic earthquake changed the lives of millions of people in Turkey and Syria. This earthquake resulted in a death toll of more than 50,000 people, while . . . 	 			Harriet Lai						                            		Syrian Earthquake Exasperate Refugee Problem &amp; History of Syrian Civil War	: 		  “They’re saying that the west is prioritizing politics over the humanitarian situation, but that’s not true. To give priority to one over the other both situations - the humanitarian . . . 	 			Brian Yu						                            		Safety Tips for Different Types of Natural Disasters	: 		  Threatening to strike at any place and time, an earthquake is a rapid shaking caused by the shifting of rocks underneath the earth’s surface. In order to prepare your home for such a . . . 	 			Aava Ghorbanian						                            		Global Cooling before Global Warming	: 		  This recent cold weather over the West Coast has more disastrous impacts than one may think. Last week, on March 5th, Texas saw snow for the first time in years. California has been h. . . 	 			Raquel Rybakova						                                          Featured&lt;/span&gt;:                                      Editor's Letter of March 2023 Issue                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           The Kahramanmaras Earthquake                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           History of Earthquakes Around the World                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Impacts of Earthquakes in Turkey                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Comparison of Turkey and California Earthquakes                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Turkey-Syria Earthquake and Its Impact on Mental Health                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Syrian Earthquake Exasperate Refugee Problem &amp; History of Syrian Civil War                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Global Cooling before Global Warming                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Underneath the Blinding Lights                          In                     World Cup and Worker's Rights,                                                                           Migrant Workers under the Extravaganza                          In                     World Cup and Worker's Rights,                                                                           Qatar’s Recycleble Soccer Stadium                          In                     World Cup and Worker's Rights,                                                                           Mahsa Amini’s Death Triggers Major Protest in Iran                          In                     Women's Rights,                                                                           Women's Rights: Movements                          In                     Women's Rights,                                                                           Religious and Government Separation                          In                     Women's Rights,                                                                           Religion and Human Rights                          In                     Women's Rights,                                                                           Protests in Iran                          In                     Women's Rights,                                                                           History of Iran's Morality Police: How Controversial are They?                          In                     Women's Rights,                                                                           What is Abortion?                          In                     Abortion,                                                                           Social Justice: Landmark Supreme Court Decisions Then and Now                          In                     Abortion,                                                                           Abortion Around the World                          In                     Abortion,                                                   "
+    "body": "          {% for category in site. categories %}    {{ category[0] }}:     {% assign pages_list = category[1] %}    {% for post in pages_list %}    {% if post. title != null %}     {% if group == null or group == post. group %}      {% include main-loop-card. html %}     {% endif %}    {% endif %}    {% endfor %}    {% assign pages_list = nil %}    {% assign group = nil %}    {% endfor %}              {% include sidebar-featured. html %}    "
     }, {
     "id": 6,
     "url": "http://localhost:4000/categories.html",
     "title": "Categories",
-    "body": "              welcome:                        		Welcome to Our Generation!	: 		  We build connections between global current events &amp; young adults in our generation. Thanks for stopping by! We’ll post articles, editions, and updates from Our Generation!	 			Sage Hill Our Generation Club						                             Abortion:                        		What is Abortion?	: 		  Abortion. A widely controversial topic that has been hotly debated and discussed, especially in the past year with the overturning of Roe v. Wade. 	 			Melody Yu						                            		Social Justice: Landmark Supreme Court Decisions Then and Now	: 		  The Reconstruction Era, a nationwide effort to rebuild and stabilize the country after the Civil War and assimilate freed slaves into society with their newly conferred rights, had of. . . 	 			Melody Yu						                            		Abortion Around the World	: 		  Let’s explore abortion around the world, in a visual format. 	 			Melody Yu						                            		 Roe v. Wade: How was the Decision Made?	: 		  Roe v. Wade was a legal decision made by the supreme court in 1973, striking down the Texas statute of criminalizing abortion. The decision made the statement that a woman’s right to . . . 	 			Melody Yu						                             Women's Rights:                        		Mahsa Amini’s Death Triggers Major Protest in Iran	: 		  Mahsa Amini, a 22-year-old Iranian woman, died in custody on September 16, 2022. Iranian authorities arrested and transported her to a detention center because she did not completely . . . 	 			Aava						                            		Women's Rights: Movements	: 		  Throughout history, there have been similar protests for women’s rights to the ones happening in Iran. While there are so many, the mentioned below are some of the more well known mov. . . 	 			Sophia H						                            		Religious and Government Separation	: 		  A hijab is a head covering worn by Muslim women, mandated by law in majority of the Middle Eastern countries, like Iran and Afghanistan. The recent death of Mahsa Amini in Morality Po. . . 	 			Brian Yu						                            		Religion and Human Rights	: 		  The recent event of Mahsa Amini has left room for debate of what takes precedence nationwide: religion or human rights. Religion is a system of attitudes, beliefs, and practices (Marr. . . 	 			Joyce Rizko						                            		Protests in Iran	: 		  Women’s subordination within our patriarchal society originated from the labor division during the Neolithic Era, where women assumed a domestic role, while men acted as the providers. . . 	 			Sophia Huang						                            		History of Iran's Morality Police: How Controversial are They?	: 		  Some statistics for you…. 	 			Sophia Lin						                             World Cup and Worker's Rights:                        		Underneath the Blinding Lights	: 		  The crowd roars as the ball is jousted into the air. The cry of the stadium swings with the ball like a pendulum. At this moment, both sides of the stadium scream their war cries for . . . 	 			Oneal Wang						                            		Migrant Workers under the Extravaganza	: 		  As one of the most important sporting events in the world, the FIFA World Cup in Qatar had over 5. 4 billion viewers. Since the announcement of the Qatar World Cup in December 2010, co. . . 	 			Annie Zhu						                            		Qatar’s Recycleble Soccer Stadium	: 		  Stadium 974 is one of the most unique stadiums ever built, and it is important to consider its impact on sustainability when looking at the broader construction of stadiums in general. . . 	 			Brian Yu						                            		Historical Figures in Workers Rights	: 		  During the Industrial Revolution, America transformed from an agricultural country to an industrialized one. With the emergence of large industrialists such as John D. Rockefeller wit. . . 	 			Yusong Liang						                            		America’s Immigrant Farm Workers	: 		  From the beginning Immigrants built America and continues to power it, making up more than a third of workers in some industries. They continue to improve our economy, creating compan. . . 	 			Sophia Huang						                            		Gender Inequality in Industries	: 		  Gender equality in the workplace has been a concern since the 19th century. Since then, the number of working women has risen astronomical amounts. However, this change is not exclusi. . . 	 			Joyce Rizko						                            		Amazon's Worker's Rights (or lack of them)	: 		  For years, Amazon has been at the forefront of controversy about the treatment of its workers. Though the company denies its infractions of workers rights, critics have exposed how de. . . 	 			Aava Ghorbanian						                            		South African Erosion of Workers’ Rights	: 		  The single-room tin homes of South Africa’s 500+ townships are testaments to the radical inequality that remains as a legacy of Apartheid, South Africa’s past oppressive system of gov. . . 	 			Frankie Lewitton						                            		Minimum Wage Sick Days and the Problems With Worker's Rights	: 		  Though we view the United States as a whole, labor laws vary from state to state, and many simply chalk these variances up to differences in political parties. Yet, labor laws in blue. . . 	 			Eliška Levisohn						                            		Inequalities in the AI industry	: 		  The AI industry, like many technology sectors, has faced criticism for a lack of diversity and unequal treatment of certain groups. This can manifest in a variety of ways, such as div. . . 	 			Joyce Wang						                             Earthquakes in Turkey/Environmental Issues:                        		Editor's Letter of March 2023 Issue	: 		  Hello, we’re the Editors in Chief of Our Gen! Thank you for reading the March 2023 issue of Our Gen. Our goal for our club is to connect the teenagers in our current digital age to ma. . . 	 			Chanah Yin, Melody Yu						                            		The Kahramanmaras Earthquake	: 		  On February 6th, 2023, two devastating earthquakes struck Turkey at its Syrian border. Following the first magnitude 7. 8 earthquake, another magnitude 7. 5 earthquake hit nine hours la. . . 	 			Annie Zhu						                            		History of Earthquakes Around the World	: 		  Small earthquakes are quite common worldwide; a million or so happen each year. However, certain places are more susceptible to earthquakes due to their location near the seven major . . . 	 			Eliška Levisohn						                            		Impacts of Earthquakes in Turkey	: 		  On February 6th, 2023, Turkey was hit by a powerful earthquake with a magnitude of 6. 9. It struck the eastern province of Van, causing extensive damage to buildings and infrastructure. . . 	 			Sophia Huang						                            		Comparison of Turkey and California Earthquakes	: 		  Earthquakes prove to be one of the most unique and dangerous natural disasters due to their unpredictability and invisibility. While people do not consistently fear them, even the sli. . . 	 			Joyce Rizko						                            		Turkey-Syria Earthquake and Its Impact on Mental Health	: 		  On February 6, 2023, a catastrophic earthquake changed the lives of millions of people in Turkey and Syria. This earthquake resulted in a death toll of more than 50,000 people, while . . . 	 			Harriet Lai						                            		Syrian Earthquake Exasperate Refugee Problem &amp; History of Syrian Civil War	: 		  “They’re saying that the west is prioritizing politics over the humanitarian situation, but that’s not true. To give priority to one over the other both situations - the humanitarian . . . 	 			Brian Yu						                            		Safety Tips for Different Types of Natural Disasters	: 		  Threatening to strike at any place and time, an earthquake is a rapid shaking caused by the shifting of rocks underneath the earth’s surface. In order to prepare your home for such a . . . 	 			Aava Ghorbanian						                            		Global Cooling before Global Warming	: 		  This recent cold weather over the West Coast has more disastrous impacts than one may think. Last week, on March 5th, Texas saw snow for the first time in years. California has been h. . . 	 			Raquel Rybakova						                                          Featured&lt;/span&gt;:                                      Editor's Letter of March 2023 Issue                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           The Kahramanmaras Earthquake                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           History of Earthquakes Around the World                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Impacts of Earthquakes in Turkey                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Comparison of Turkey and California Earthquakes                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Turkey-Syria Earthquake and Its Impact on Mental Health                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Syrian Earthquake Exasperate Refugee Problem &amp; History of Syrian Civil War                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Global Cooling before Global Warming                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Underneath the Blinding Lights                          In                     World Cup and Worker's Rights,                                                                           Migrant Workers under the Extravaganza                          In                     World Cup and Worker's Rights,                                                                           Qatar’s Recycleble Soccer Stadium                          In                     World Cup and Worker's Rights,                                                                           Mahsa Amini’s Death Triggers Major Protest in Iran                          In                     Women's Rights,                                                                           Women's Rights: Movements                          In                     Women's Rights,                                                                           Religious and Government Separation                          In                     Women's Rights,                                                                           Religion and Human Rights                          In                     Women's Rights,                                                                           Protests in Iran                          In                     Women's Rights,                                                                           History of Iran's Morality Police: How Controversial are They?                          In                     Women's Rights,                                                                           What is Abortion?                          In                     Abortion,                                                                           Social Justice: Landmark Supreme Court Decisions Then and Now                          In                     Abortion,                                                                           Abortion Around the World                          In                     Abortion,                                                   "
+    "body": "          {% for category in site. categories %}    {{ category[0] }}:     {% assign pages_list = category[1] %}    {% for post in pages_list %}    {% if post. title != null %}     {% if group == null or group == post. group %}      {% include main-loop-card. html %}     {% endif %}    {% endif %}    {% endfor %}    {% assign pages_list = nil %}    {% assign group = nil %}    {% endfor %}              {% include sidebar-featured. html %}    "
     }, {
     "id": 7,
     "url": "http://localhost:4000/contact.html",
     "title": "Contact",
-    "body": "  Please send your message to Our Generation. We will reply as soon as possible!   "
+    "body": "  Please send your message to {{site. name}}. We will reply as soon as possible!   "
     }, {
     "id": 8,
     "url": "http://localhost:4000/contact.html",
     "title": "Contact",
-    "body": "  Please send your message to Our Generation. We will reply as soon as possible!   "
+    "body": "  Please send your message to {{site. name}}. We will reply as soon as possible!   "
     }, {
     "id": 9,
     "url": "http://localhost:4000/current",
@@ -159,17 +163,17 @@ var documents = [{
     "id": 10,
     "url": "http://localhost:4000/env-earthquakes",
     "title": "March 2023 Issue: Earthquakes in Turkey and Environmental Issues",
-    "body": "														   		 					March 2023 Issue: Earthquakes in Turkey and Environmental Issues: 																					Editted by Chanah Yin, Melody Yu 														        													        						                         		Editor's Letter of March 2023 Issue	: 		  Hello, we’re the Editors in Chief of Our Gen! Thank you for reading the March 2023 issue of Our Gen. Our goal for our club is to connect the teenagers in our current digital age to ma. . . 	 			Chanah Yin, Melody Yu						                            		The Kahramanmaras Earthquake	: 		  On February 6th, 2023, two devastating earthquakes struck Turkey at its Syrian border. Following the first magnitude 7. 8 earthquake, another magnitude 7. 5 earthquake hit nine hours la. . . 	 			Annie Zhu						                            		History of Earthquakes Around the World	: 		  Small earthquakes are quite common worldwide; a million or so happen each year. However, certain places are more susceptible to earthquakes due to their location near the seven major . . . 	 			Eliška Levisohn						                            		Impacts of Earthquakes in Turkey	: 		  On February 6th, 2023, Turkey was hit by a powerful earthquake with a magnitude of 6. 9. It struck the eastern province of Van, causing extensive damage to buildings and infrastructure. . . 	 			Sophia Huang						                            		Comparison of Turkey and California Earthquakes	: 		  Earthquakes prove to be one of the most unique and dangerous natural disasters due to their unpredictability and invisibility. While people do not consistently fear them, even the sli. . . 	 			Joyce Rizko						                            		Turkey-Syria Earthquake and Its Impact on Mental Health	: 		  On February 6, 2023, a catastrophic earthquake changed the lives of millions of people in Turkey and Syria. This earthquake resulted in a death toll of more than 50,000 people, while . . . 	 			Harriet Lai						                            		Syrian Earthquake Exasperate Refugee Problem &amp; History of Syrian Civil War	: 		  “They’re saying that the west is prioritizing politics over the humanitarian situation, but that’s not true. To give priority to one over the other both situations - the humanitarian . . . 	 			Brian Yu						                            		Safety Tips for Different Types of Natural Disasters	: 		  Threatening to strike at any place and time, an earthquake is a rapid shaking caused by the shifting of rocks underneath the earth’s surface. In order to prepare your home for such a . . . 	 			Aava Ghorbanian						                            		Global Cooling before Global Warming	: 		  This recent cold weather over the West Coast has more disastrous impacts than one may think. Last week, on March 5th, Texas saw snow for the first time in years. California has been h. . . 	 			Raquel Rybakova						                       "
+    "body": "														   		 					{{ page. title }}: 																					Editted by {{ page. author }} 														        {% if page. image %}									&lt;img class= rounded  src= {% if page. image contains  ://  %}{{ page. image }}{% else %}{{ site. baseurl }}/{{ page. image }}{% endif %}  alt= {{ page. title }} &gt;				        {% endif %}						      {% assign pages_list = site. categories[ Earthquakes in Turkey/Environmental Issues ] %}    {% for post in pages_list %}    {% if post. title != null %}     {% if group == null or group == post. group %}      {% include main-loop-card. html %}     {% endif %}    {% endif %}    {% endfor %}    {% assign pages_list = nil %}    {% assign group = nil %}  "
     }, {
     "id": 11,
     "url": "http://localhost:4000/",
     "title": "Our Generation",
-    "body": "                                                                                                                       The Kahramanmaras Earthquake     :            In               Earthquakes in Turkey/Environmental Issues,                                                                                                  History of Earthquakes Around the World     :            In               Earthquakes in Turkey/Environmental Issues,                                                                                                  Impacts of Earthquakes in Turkey     :            In               Earthquakes in Turkey/Environmental Issues,                                                                   Earthquakes in Turkey and Environmental Issues           Check out our articles from the March 2023 issue about Earthquakes in Turkey and Environmental Issues.           Read More                           All Articles:       		Editor's Letter of March 2023 Issue	: 		  Hello, we’re the Editors in Chief of Our Gen! Thank you for reading the March 2023 issue of Our Gen. Our goal for our club is to connect the teenagers in our current digital age to ma. . . 	 			Chanah Yin, Melody Yu						      		The Kahramanmaras Earthquake	: 		  On February 6th, 2023, two devastating earthquakes struck Turkey at its Syrian border. Following the first magnitude 7. 8 earthquake, another magnitude 7. 5 earthquake hit nine hours la. . . 	 			Annie Zhu						      		History of Earthquakes Around the World	: 		  Small earthquakes are quite common worldwide; a million or so happen each year. However, certain places are more susceptible to earthquakes due to their location near the seven major . . . 	 			Eliška Levisohn						      		Impacts of Earthquakes in Turkey	: 		  On February 6th, 2023, Turkey was hit by a powerful earthquake with a magnitude of 6. 9. It struck the eastern province of Van, causing extensive damage to buildings and infrastructure. . . 	 			Sophia Huang						      		Comparison of Turkey and California Earthquakes	: 		  Earthquakes prove to be one of the most unique and dangerous natural disasters due to their unpredictability and invisibility. While people do not consistently fear them, even the sli. . . 	 			Joyce Rizko						      		Turkey-Syria Earthquake and Its Impact on Mental Health	: 		  On February 6, 2023, a catastrophic earthquake changed the lives of millions of people in Turkey and Syria. This earthquake resulted in a death toll of more than 50,000 people, while . . . 	 			Harriet Lai						                            &laquo;                    1                    2                    3                    4                    5                    Next &raquo;                          Featured&lt;/span&gt;:                                      Editor's Letter of March 2023 Issue                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           The Kahramanmaras Earthquake                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           History of Earthquakes Around the World                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Impacts of Earthquakes in Turkey                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Comparison of Turkey and California Earthquakes                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Turkey-Syria Earthquake and Its Impact on Mental Health                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Syrian Earthquake Exasperate Refugee Problem &amp; History of Syrian Civil War                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Global Cooling before Global Warming                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Underneath the Blinding Lights                          In                     World Cup and Worker's Rights,                                                                           Migrant Workers under the Extravaganza                          In                     World Cup and Worker's Rights,                                                                           Qatar’s Recycleble Soccer Stadium                          In                     World Cup and Worker's Rights,                                                                           Mahsa Amini’s Death Triggers Major Protest in Iran                          In                     Women's Rights,                                                                           Women's Rights: Movements                          In                     Women's Rights,                                                                           Religious and Government Separation                          In                     Women's Rights,                                                                           Religion and Human Rights                          In                     Women's Rights,                                                                           Protests in Iran                          In                     Women's Rights,                                                                           History of Iran's Morality Police: How Controversial are They?                          In                     Women's Rights,                                                                           What is Abortion?                          In                     Abortion,                                                                           Social Justice: Landmark Supreme Court Decisions Then and Now                          In                     Abortion,                                                                           Abortion Around the World                          In                     Abortion,                                                  "
+    "body": " {% if page. url ==  /  %}      {% assign latest_post = site. posts. last %}                                                                    {%- assign second_post = site. posts[1] -%}       {% if second_post. image %}               &lt;img class= w-100  src= {% if second_post. image contains   ://  %}{{ second_post. image }}{% else %}{{       second_post. image | absolute_url }}{% endif %}  alt= {{ second_post. title }} &gt;             {% endif %}               {{ second_post. title }}     :            In        {% for category in second_post. categories %}       {{ category }},              {% endfor %}                      {{ post. author}}                  {%- assign third_post = site. posts[2] -%}       {% if third_post. image %}               &lt;img class= w-100  src= {% if third_post. image contains   ://  %}{{ third_post. image }}{% else       %}{{site. baseurl}}/{{ third_post. image }}{% endif %}  alt= {{ third_post. title }} &gt;             {% endif %}               {{ third_post. title }}     :            In        {% for category in third_post. categories %}       {{ category }},              {% endfor %}                      {{ post. author}}                  {%- assign fourth_post = site. posts[3] -%}       {% if fourth_post. image %}               &lt;img class= w-100  src= {% if fourth_post. image contains   ://  %}{{ fourth_post. image }}{% else       %}{{site. baseurl}}/{{ fourth_post. image }}{% endif %}  alt= {{ fourth_post. title }} &gt;             {% endif %}               {{ fourth_post. title }}     :            In        {% for category in fourth_post. categories %}       {{ category }},              {% endfor %}                      {{ post. author}}                               Earthquakes in Turkey and Environmental Issues           Check out our articles from the March 2023 issue about Earthquakes in Turkey and Environmental Issues.           Read More                    {% endif %}        All Articles:    {% for post in paginator. posts %}   {% include main-loop-card. html %}   {% endfor %}           {% if paginator. total_pages &gt; 1 %}         {% if paginator. previous_page %}     &laquo; Prev          {% else %}     &laquo;     {% endif %}     {% for page in (1. . paginator. total_pages) %}     {% if page == paginator. page %}     {{ page }}     {% elsif page == 1 %}     {{ page }}     {% else %}     {{       page       }}     {% endif %}     {% endfor %}     {% if paginator. next_page %}     Next &raquo;     {% else %}     &raquo;     {% endif %}        {% endif %}          {% include sidebar-featured. html %}   "
     }, {
     "id": 12,
     "url": "http://localhost:4000/issues.html",
     "title": "Categories",
-    "body": "                  welcome:                               Abortion:                               Women's Rights:                               World Cup and Worker's Rights:                               Earthquakes in Turkey/Environmental Issues:                                          Featured&lt;/span&gt;:                                      Editor's Letter of March 2023 Issue                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           The Kahramanmaras Earthquake                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           History of Earthquakes Around the World                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Impacts of Earthquakes in Turkey                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Comparison of Turkey and California Earthquakes                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Turkey-Syria Earthquake and Its Impact on Mental Health                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Syrian Earthquake Exasperate Refugee Problem &amp; History of Syrian Civil War                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Global Cooling before Global Warming                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Underneath the Blinding Lights                          In                     World Cup and Worker's Rights,                                                                           Migrant Workers under the Extravaganza                          In                     World Cup and Worker's Rights,                                                                           Qatar’s Recycleble Soccer Stadium                          In                     World Cup and Worker's Rights,                                                                           Mahsa Amini’s Death Triggers Major Protest in Iran                          In                     Women's Rights,                                                                           Women's Rights: Movements                          In                     Women's Rights,                                                                           Religious and Government Separation                          In                     Women's Rights,                                                                           Religion and Human Rights                          In                     Women's Rights,                                                                           Protests in Iran                          In                     Women's Rights,                                                                           History of Iran's Morality Police: How Controversial are They?                          In                     Women's Rights,                                                                           What is Abortion?                          In                     Abortion,                                                                           Social Justice: Landmark Supreme Court Decisions Then and Now                          In                     Abortion,                                                                           Abortion Around the World                          In                     Abortion,                                                     "
+    "body": "            {% for category in site. categories %}      {{          category[0] }}:       {% assign pages_list = category[1] %}       {% assign pages_list = nil %}      {% assign group = nil %}      {% endfor %}              {% include sidebar-featured. html %}      "
     }, {
     "id": 13,
     "url": "http://localhost:4000/links",
@@ -179,12 +183,12 @@ var documents = [{
     "id": 14,
     "url": "http://localhost:4000/mahsaamani",
     "title": "Mahsa Amani",
-    "body": "      Mahsa Amani:                   "
+    "body": "      Mahsa Amani:     {% assign pages_list = site. categories[ Mahsa Amani ] %}    {% for post in pages_list %}    {% if post. title != null %}     {% if group == null or group == post. group %}      {% include main-loop-card. html %}     {% endif %}    {% endif %}    {% endfor %}    {% assign pages_list = nil %}    {% assign group = nil %}  "
     }, {
     "id": 15,
     "url": "http://localhost:4000/issues",
     "title": "Categories",
-    "body": "                  	 	: welcome:     	                          	 	: Abortion:     	                          	 	: Women's Rights:     	                          	 	: World Cup and Worker's Rights:     	                          	 	: Earthquakes in Turkey/Environmental Issues:     	                                     Featured&lt;/span&gt;:                                      Editor's Letter of March 2023 Issue                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           The Kahramanmaras Earthquake                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           History of Earthquakes Around the World                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Impacts of Earthquakes in Turkey                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Comparison of Turkey and California Earthquakes                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Turkey-Syria Earthquake and Its Impact on Mental Health                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Syrian Earthquake Exasperate Refugee Problem &amp; History of Syrian Civil War                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Global Cooling before Global Warming                          In                     Earthquakes in Turkey/Environmental Issues,                                                                           Underneath the Blinding Lights                          In                     World Cup and Worker's Rights,                                                                           Migrant Workers under the Extravaganza                          In                     World Cup and Worker's Rights,                                                                           Qatar’s Recycleble Soccer Stadium                          In                     World Cup and Worker's Rights,                                                                           Mahsa Amini’s Death Triggers Major Protest in Iran                          In                     Women's Rights,                                                                           Women's Rights: Movements                          In                     Women's Rights,                                                                           Religious and Government Separation                          In                     Women's Rights,                                                                           Religion and Human Rights                          In                     Women's Rights,                                                                           Protests in Iran                          In                     Women's Rights,                                                                           History of Iran's Morality Police: How Controversial are They?                          In                     Women's Rights,                                                                           What is Abortion?                          In                     Abortion,                                                                           Social Justice: Landmark Supreme Court Decisions Then and Now                          In                     Abortion,                                                                           Abortion Around the World                          In                     Abortion,                                                     "
+    "body": "            {% for category in site. categories %}      {% assign pages_list = category[1] %}	 	: {{          category[0] }}:     	{{ post. author}}  {% if post. image %}			&lt;img class= w-100  src= {% if post. image contains  ://  %}{{ post. image }}{% else %}{{ site. baseurl }}/{{ post. image }}{% endif %}  alt= {{ post. title }} &gt;		{% endif %}      {% assign pages_list = nil %}      {% assign group = nil %}      {% endfor %}              {% include sidebar-featured. html %}      "
     }, {
     "id": 16,
     "url": "http://localhost:4000/tags.html",
@@ -453,436 +457,113 @@ function lunr_search(term) {
 
     <!-- Content -->
     <main role="main" class="site-content">
-        <div class="container">
-    <div class="row justify-content-center">
-        <div class="col-md-8">
-
-            
-
-            
-
-<div class="mb-5 d-flex ">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
- 
-	</h2>
-<h4 class="font-weight-bold spanborder text-capitalize" id="welcome"><span>welcome</span></h4>
-
-    <small class="text-muted">
-    	
-    </small>
-
+        
+<div class="container">
+<div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
+		<div class="h-100 tofront">
+			<div class="row  justify-content-between ">
+				<div class=" col-md-6  pr-0 pr-md-4 pt-4 pb-4 align-self-center">
+					<p class="text-uppercase font-weight-bold">
+      		</p>
+					<h1 class="display-4 mb-4 article-headline">The Kahramanmaras Earthquake</h1>
+										<div class="d-flex align-items-center">
+											<span class="text-muted d-block mt-1">by Annie Zhu </span>
+											</small>
+										</div>
+					<div class="d-flex align-items-center">
+                            <span class="text-muted d-block mt-1">Mar 10, 2023 </span>
+						</small>
+					</div>
+				</div>
+                
+				<div class="col-md-6 pr-0 align-self-center">
+					<img class="rounded" src="/assets/images/History of Earthquakes around the world.jpeg" alt="The Kahramanmaras Earthquake">
+				</div>
+                
+			</div>
+		</div>
+	</div>
 </div>
 
+
+
+
+
+<div class="container-lg pt-4 pb-4">
+	<div class="row justify-content-center">
+
+
+        <!-- Share -->
+		<div class="col-lg-2 pr-4 mb-4 col-md-12">
+			<div class="sticky-top sticky-top-offset text-center">
+				<div class="text-muted">
+					Share this
+				</div>
+				<div class="share d-inline-block">
+					<!-- AddToAny BEGIN -->
+					<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+						<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+						<a class="a2a_button_facebook"></a>
+						<a class="a2a_button_twitter"></a>
+					</div>
+					<script async src="https://static.addtoany.com/menu/page.js"></script>
+					<!-- AddToAny END -->
+				</div>
+			</div>
+		</div>
+
+
+		<div class="col-md-12 col-lg-8">
+
+            <!-- Article -->
+			<article class="article-post">
+			<p>On February 6th, 2023, two devastating earthquakes struck Turkey at its Syrian border. Following the first magnitude 7.8 earthquake, another magnitude 7.5 earthquake hit nine hours later. Thousands of people were killed and billions of dollars were lost from physical damage. The state authorities urgently declared a level 4 emergency and called for international assistance while the death toll climbed rapidly. To date, more than 9.1 million people have been affected, and more than 45,000 people were killed in this incident. By March 1, 2023, more than 11,000 aftershocks in the region have also added to the devastation. This earthquake is one of the largest in Turkey’s history, along with the 1668 North Anatolia earthquake and the 1939 Erzincan earthquake. One thing is certain – the destructive consequences of the event will remain for years to come.</p>
+
+<p>The impact of the Kahramanmaras earthquake has had severe negative effects on physical and mental health of the residents in Turkey and Syria. Since the quake on February 6th, 1.9 million people have relocated and now live in temporary shelters after the disaster destroyed their houses. These poor living conditions make the survivors susceptible to health issues. Physical effects aside, the experience has led people to develop trauma and increased risk for chronic anxiety and depression. For instance, the survivors may develop Survivor’s Guilt as they believe that they have done something wrong when others have passed away in the tragic event. Furthermore, the Kahramanmaras Earthquake directly damaged $34.2 billion worth of buildings and facilities in Türkiye and Syria. This also exposed the design problems in buildings that were vulnerable to strong earthquakes, leading to more destruction due to anthropogenic factors. Ultimately, the Kahramanmaras Earthquake contributed to a large humanitarian crisis and caused economic problems that are affecting the lives of millions of people.</p>
+
+<p>In response to the Kahramanmaras Earthquake, countries around the world have offered humanitarian support to relieve the level of destruction. For example, the United Nations have offered multiple cross-border aid operations to deliver supplies. The Bab Al-Hawa, Bab Al-Salam, and Al-Ra’ee have all been open for UN aid delivery, and by March 4th, 583 trucks with aid have crossed into Northwest Syria to provide assistance. However, according to an IFRC market assessment, hot meals, hygiene items, winter clothes, and many more critical necessities are still desperately needed in the affected areas.</p>
+
+<p>Overall, being one of the worst earthquakes in recent years, the Kahramanmaras Earthquake has transformed the lives of many and is continuously affecting more. Similar to many other large-scale earthquakes in history, it destroyed local communities, the economy, and killed thousands of people. In addition to learning the details about how this earthquake has affected Türkiye and Syria and how the United States plays a role in this event, this issue also introduces past earthquakes that have heavily injured communities around the world. By learning about the history of earthquakes and juxtaposing different earthquakes for comparison, we will discuss the multifaceted impact of natural disasters in a comprehensive manner. From the effect on people’s mental health to global climate change, understanding the context beyond the Kahramanmaras Earthquake is essential for teenagers to provide better assistance.</p>
+
+<p><small> Sources: </small></p>
+
+<p><small><a href="https://disasterphilanthropy.org/disasters/2023-turkey-syria-earthquake/">2023 Turkey-Syria Earthquake - Center for Disaster Philanthropy</a></small></p>
+
+<p><small><a href="https://reliefweb.int/report/turkiye/turkiye-2023-earthquakes-situation-report-no-6-3-march-2023">Türkiye: 2023 Earthquakes Situation Report No. 6, As of 3 March 2023</a></small></p>
+
+<p><small><a href="https://www.scientificamerican.com/article/survivors-of-deadly-earthquakes-must-deal-with-lasting-trauma/">Survivors of Deadly Earthquakes Must Deal with Lasting Trauma - Scientific American</a></small></p>
+
+<p>Written by Annie Zhu</p>
+
+			</article>
+
+
+            <!-- Mailchimp Subscribe Form -->
+            
+
+		</div>
+
+
+	</div>
 </div>
 
-            
-            
 
-            
-
-            
-
-<div class="mb-5 d-flex ">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
- 
-	</h2>
-<h4 class="font-weight-bold spanborder text-capitalize" id="abortion"><span>Abortion</span></h4>
-
-    <small class="text-muted">
-    	
-    </small>
-
-</div>
-
-</div>
-
-            
-            
-
-            
-
-            
-
-<div class="mb-5 d-flex ">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
- 
-	</h2>
-<h4 class="font-weight-bold spanborder text-capitalize" id="women's rights"><span>Women's Rights</span></h4>
-
-    <small class="text-muted">
-    	
-    </small>
-
-</div>
-
-</div>
-
-            
-            
-
-            
-
-            
-
-<div class="mb-5 d-flex ">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
- 
-	</h2>
-<h4 class="font-weight-bold spanborder text-capitalize" id="world cup and worker's rights"><span>World Cup and Worker's Rights</span></h4>
-
-    <small class="text-muted">
-    	
-    </small>
-
-</div>
-
-</div>
-
-            
-            
-
-            
-
-            
-
-<div class="mb-5 d-flex ">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
- 
-	</h2>
-<h4 class="font-weight-bold spanborder text-capitalize" id="earthquakes in turkey/environmental issues"><span>Earthquakes in Turkey/Environmental Issues</span></h4>
-
-    <small class="text-muted">
-    	
-    </small>
-
-</div>
-
-</div>
-
-            
-            
-
-            
-
+<!-- Aletbar Prev/Next -->
+<div class="alertbar">
+    <div class="container">
+        <div class="row prevnextlinks small font-weight-bold">
+          
+            <div class="col-md-6 rightborder pl-0">
+                <a class="text-dark" href="/History-of-Earthquake/"> <img height="30px" class="mr-1" src="/assets/images/History of Earthquakes around the world.jpeg">  History of Earthquakes Around the World</a>
+            </div>
+          
+          
+            <div class="col-md-6 text-right pr-0">
+                <a class="text-dark" href="/editor-words/"> Editor's Letter of March 2023 Issue  <img height="30px" class="ml-1" src="/assets/images/INTROIMAGE_frontpage.jpeg"> </a>
+            </div>
+          
         </div>
-
-        <div class="col-md-4">
-            <div class="sticky-top sticky-top-offset">
-    <h4 class="font-weight-bold spanborder"><span></span> Featured&lt;/span&gt;</h4>  
-    <ol class="list-featured">
-        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/editor-words/" class="text-dark">Editor's Letter of March 2023 Issue</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#earthquakes in turkey/environmental issues">Earthquakes in Turkey/Environmental Issues</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>
-        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/Kahramanmaras-Earthquake/" class="text-dark">The Kahramanmaras Earthquake</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#earthquakes in turkey/environmental issues">Earthquakes in Turkey/Environmental Issues</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>
-        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/History-of-Earthquake/" class="text-dark">History of Earthquakes Around the World</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#earthquakes in turkey/environmental issues">Earthquakes in Turkey/Environmental Issues</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>
-        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/Impacts-of-Earthquakes-in-Turkey/" class="text-dark">Impacts of Earthquakes in Turkey</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#earthquakes in turkey/environmental issues">Earthquakes in Turkey/Environmental Issues</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>
-        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/Compare-Earthquake-California/" class="text-dark">Comparison of Turkey and California Earthquakes</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#earthquakes in turkey/environmental issues">Earthquakes in Turkey/Environmental Issues</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>
-        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/Earthquake-impact-Mental-Health/" class="text-dark">Turkey-Syria Earthquake and Its Impact on Mental Health</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#earthquakes in turkey/environmental issues">Earthquakes in Turkey/Environmental Issues</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>
-        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/Earthquake-Exasperate-Refugee-Problem/" class="text-dark">Syrian Earthquake Exasperate Refugee Problem &amp; History of Syrian Civil War</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#earthquakes in turkey/environmental issues">Earthquakes in Turkey/Environmental Issues</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>
-        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/Global-Cooling-before-Global-Warming/" class="text-dark">Global Cooling before Global Warming</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#earthquakes in turkey/environmental issues">Earthquakes in Turkey/Environmental Issues</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>
-        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/star-wars/" class="text-dark">Underneath the Blinding Lights</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#world cup and worker's rights">World Cup and Worker's Rights</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>
-        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/migrant-workers/" class="text-dark">Migrant Workers under the Extravaganza</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#world cup and worker's rights">World Cup and Worker's Rights</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>
-        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/qatars-recycleble/" class="text-dark">Qatar’s Recycleble Soccer Stadium</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#world cup and worker's rights">World Cup and Worker's Rights</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>
-        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/mahsa-amini/" class="text-dark">Mahsa Amini’s Death Triggers Major Protest in Iran</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#women's rights">Women's Rights</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>
-        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/womens-rights-movements/" class="text-dark">Women's Rights: Movements</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#women's rights">Women's Rights</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>
-        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/religion-state/" class="text-dark">Religious and Government Separation</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#women's rights">Women's Rights</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>
-        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/religion-human-rights/" class="text-dark">Religion and Human Rights</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#women's rights">Women's Rights</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>
-        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/protests-iran/" class="text-dark">Protests in Iran</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#women's rights">Women's Rights</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>
-        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/iran-timeline/" class="text-dark">History of Iran's Morality Police: How Controversial are They?</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#women's rights">Women's Rights</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>
-        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/What-is-abortion/" class="text-dark">What is Abortion?</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#abortion">Abortion</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>
-        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/Social-Justice/" class="text-dark">Social Justice: Landmark Supreme Court Decisions Then and Now</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#abortion">Abortion</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>
-        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/abortion-timeline/" class="text-dark">Abortion Around the World</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#abortion">Abortion</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>
-        
-    </ol>
-</div>
-
-        </div>
-
     </div>
-
 </div>
 
     </main>
