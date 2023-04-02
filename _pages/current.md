@@ -1,8 +1,9 @@
 ---
-title: "Worker's Rights Issue"
+title: "March 2023 Issue: Earthquakes in Turkey and Environmental Issues"
 layout: default
+image: assets/images/INTROIMAGE_frontpage.jpeg
 permalink: "/current"
-redirect_to: "/env-earthquakes"
+author: Chanah Yin,  Melody Yu
 ---
 
 <div class="container">
