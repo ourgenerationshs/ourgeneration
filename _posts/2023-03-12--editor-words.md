@@ -1,22 +1,12 @@
 ---
 layout: post
-title: "Letter from the Editors in Chief"
+title: "Introduction"
 subtitle: ""
 author: Chanah Yin, Melody Yu
 categories: [Earthquakes in Turkey/Environmental Issues]
 image: assets/images/INTROIMAGE_frontpage.jpeg
 tags: [featured]
 ---
-
-Hello, we’re the Editors in Chief of Our Gen! Thank you for reading the March 2023 issue of Our Gen. Our goal for our club is to connect the teenagers in our current digital age to major current issues to help us further understand and care about the world around us. As writers, artists, and editors, our team has delved into current issues, connecting them back to our lives. Understanding earthquakes in Turkey is extremely important, and so is understanding how the natural fundamental environmental issue is affecting the entire world, including our homes. For example, California fault lines provide a dangerous possibility for earthquakes up to a magnitude of eight. In cases such as this, we believe that it is important to educate teenagers about these natural disasters so we can better protect ourselves and perhaps, one day, to be able to protect the human race from those deadly disasters.
-
-We want to thank our amazing team for their hard work on this issue, our advisor Mrs. Chung for her constant support, and a special thank you to Ms.Tekin for inspiring us to take action and to influence others regarding the Turkey earthquakes. Our Generation reminds us how closely connected people are, and how even a small positive remark can leave a huge trace in someone’s lives.
-
-With this, we hope our readers will take away the importance of understanding our world. Our Generation creates a platform for teenagers to utilize their voices and actions. Even more so, we would like to encourage and empower young adults to become agents of change and to make those positive impacts for our society. We, young adults, can shape the future. We are the future.
-
-Sincerely,  
-Chanah Y. & Melody Y.
-
 # The Kahramanmaras Earthquake
 
 by Annie Zhu
@@ -28,6 +18,20 @@ The impact of the Kahramanmaras earthquake has had severe negative effects on ph
 In response to the Kahramanmaras Earthquake, countries around the world have offered humanitarian support to relieve the level of destruction. For example, the United Nations have offered multiple cross-border aid operations to deliver supplies. The Bab Al-Hawa, Bab Al-Salam, and Al-Ra’ee have all been open for UN aid delivery, and by March 4th, 583 trucks with aid have crossed into Northwest Syria to provide assistance. However, according to an IFRC market assessment, hot meals, hygiene items, winter clothes, and many more critical necessities are still desperately needed in the affected areas.
 
 Overall, being one of the worst earthquakes in recent years, the Kahramanmaras Earthquake has transformed the lives of many and is continuously affecting more. Similar to many other large-scale earthquakes in history, it destroyed local communities, the economy, and killed thousands of people. In addition to learning the details about how this earthquake has affected Türkiye and Syria and how the United States plays a role in this event, this issue also introduces past earthquakes that have heavily injured communities around the world. By learning about the history of earthquakes and juxtaposing different earthquakes for comparison, we will discuss the multifaceted impact of natural disasters in a comprehensive manner. From the effect on people’s mental health to global climate change, understanding the context beyond the Kahramanmaras Earthquake is essential for teenagers to provide better assistance.
+
+
+# Letter from the Editors in Chief
+
+Hello, we’re the Editors in Chief of Our Gen! Thank you for reading the March 2023 issue of Our Gen. Our goal for our club is to connect the teenagers in our current digital age to major current issues to help us further understand and care about the world around us. As writers, artists, and editors, our team has delved into current issues, connecting them back to our lives. Understanding earthquakes in Turkey is extremely important, and so is understanding how the natural fundamental environmental issue is affecting the entire world, including our homes. For example, California fault lines provide a dangerous possibility for earthquakes up to a magnitude of eight. In cases such as this, we believe that it is important to educate teenagers about these natural disasters so we can better protect ourselves and perhaps, one day, to be able to protect the human race from those deadly disasters.
+
+We want to thank our amazing team for their hard work on this issue, our advisor Mrs. Chung for her constant support, and a special thank you to Ms.Tekin for inspiring us to take action and to influence others regarding the Turkey earthquakes. Our Generation reminds us how closely connected people are, and how even a small positive remark can leave a huge trace in someone’s lives.
+
+With this, we hope our readers will take away the importance of understanding our world. Our Generation creates a platform for teenagers to utilize their voices and actions. Even more so, we would like to encourage and empower young adults to become agents of change and to make those positive impacts for our society. We, young adults, can shape the future. We are the future.
+
+Sincerely,  
+Chanah Y. & Melody Y.
+
+
 
 <small> Sources: </small>
 
