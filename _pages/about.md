@@ -40,25 +40,20 @@ permalink: "/team"
               <div class="p-name">Brian Yu</div>
               <div class="p-des">Senior Editor</div>
             </div>
-      
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/annie1.png" alt="Person">
-              <div class="p-name">Annie Zhu</div>
-              <div class="p-des">Senior Editor</div>
-            </div>
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/sophiah.png" alt="Person">
               <div class="p-name">Sophia Huang</div>
-              <div class="p-des">Junior Editor</div>
+              <div class="p-des">Senior Editor</div>
+            </div>
+            
+
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/joycer.jpg" alt="Person">
+              <div class="p-name">Joyce Rizko</div>
+              <div class="p-des">Senior Editor</div>
             </div>
       
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/Raquel.jpg" alt="Person">
-              <div class="p-name">Raquel Rybakova</div>
-              <div class="p-des">Junior Editor</div>
-            </div>
-
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/tony1.png" alt="Person">
               <div class="p-name">Tony Tan</div>
@@ -66,27 +61,9 @@ permalink: "/team"
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/joycer.jpg" alt="Person">
-              <div class="p-name">Joyce Rizko</div>
-              <div class="p-des">Writing Director</div>
-            </div>
-
-            <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/maddie.jpeg" alt="Person">
               <div class="p-name">Maddie Chao</div>
               <div class="p-des">Creative Director</div>
-            </div>
-
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/grace.jpeg" alt="Person">
-              <div class="p-name">Grace Yan</div>
-              <div class="p-des">Research Director</div>
-            </div>
-
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/noah.jpeg" alt="Person">
-              <div class="p-name">Noah Jimenez</div>
-              <div class="p-des">Communication Director</div>
             </div>
 
             <div class="pe">
@@ -102,14 +79,28 @@ permalink: "/team"
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/shikshaa.jpeg" alt="Person">
-              <div class="p-name">Shiksha Anand </div>
-              <div class="p-des">Editor</div>
+              <img src="{{ site.baseurl }}/assets/images/aavag.png" alt="Person">
+              <div class="p-name">Aava Ghorbanian</div>
+              <div class="p-des">Writing Director</div>
+            </div>
+
+            
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/oneal.png" alt="Person">
+              <div class="p-name">Oneal Wang</div>
+              <div class="p-des">Writer</div>
+            </div>
+
+            
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/vera.png" alt="Person">
+              <div class="p-name">Vera Yang</div>
+              <div class="p-des">Outreach</div>
             </div>
 
             <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/aavag.png" alt="Person">
-              <div class="p-name">Aava Ghorbanian</div>
+              <img src="{{ site.baseurl }}/assets/images/grace.jpeg" alt="Person">
+              <div class="p-name">Grace Yan</div>
               <div class="p-des">Writer</div>
             </div>
 
@@ -119,6 +110,36 @@ permalink: "/team"
               <div class="p-des">Mascot</div>
             </div>
     </div>
+
+        <h2>Alumni</h2>
+    <div class="pers">
+
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/annie1.png" alt="Person">
+              <div class="p-name">Annie Zhu</div>
+              <div class="p-des">Senior Editor</div>
+            </div>
+
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/shikshaa.jpeg" alt="Person">
+              <div class="p-name">Shiksha Anand </div>
+              <div class="p-des">Editor</div>
+            </div>
+
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/noah.jpeg" alt="Person">
+              <div class="p-name">Noah Jimenez</div>
+              <div class="p-des">Communication Director</div>
+            </div>
+            
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/Raquel.jpg" alt="Person">
+              <div class="p-name">Raquel Rybakova</div>
+              <div class="p-des">Writer</div>
+            </div>
+
+    </div>
+
 
   </div>
 </div>
