@@ -79,6 +79,12 @@ permalink: "/team"
             </div>
 
             <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/gracey.png" alt="Person">
+              <div class="p-name">Grace Yang</div>
+              <div class="p-des">Writing Director</div>
+            </div>
+
+            <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/aavag.png" alt="Person">
               <div class="p-name">Aava Ghorbanian</div>
               <div class="p-des">Writing Director</div>
