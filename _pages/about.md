@@ -137,12 +137,6 @@ permalink: "/team"
               <div class="p-name">Noah Jimenez</div>
               <div class="p-des">Communication Director</div>
             </div>
-            
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/Raquel.jpg" alt="Person">
-              <div class="p-name">Raquel Rybakova</div>
-              <div class="p-des">Writer</div>
-            </div>
 
     </div>
 
