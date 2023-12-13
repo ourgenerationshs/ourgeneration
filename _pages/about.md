@@ -90,6 +90,12 @@ permalink: "/team"
               <div class="p-des">Writing Director</div>
             </div>
 
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/maya.png" alt="Person">
+              <div class="p-name">Maya Desai</div>
+              <div class="p-des">Writing Director</div>
+            </div>
+
             
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/oneal.png" alt="Person">
