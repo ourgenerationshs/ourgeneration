@@ -5,7 +5,7 @@ subtitle: "for those visual thinkers..."
 author: Sophia Lin
 categories: [Women's Rights]
 image: assets/images/moralitypolice.png
-tags: featured
+tags: 
 ---
 
 Some statistics for you….
