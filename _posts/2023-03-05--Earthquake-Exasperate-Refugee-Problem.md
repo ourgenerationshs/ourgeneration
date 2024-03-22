@@ -5,7 +5,7 @@ subtitle: ""
 author: Brian Yu
 categories: [Earthquakes in Turkey/Environmental Issues]
 image: assets/images/History of Syrian Civil War.jpeg
-tags: [featured]
+tags: []
 ---
 
 “They’re saying that the west is prioritizing politics over the humanitarian situation, but that’s not true. To give priority to one over the other both situations - the humanitarian and the political - have to exist. In the west, only the political situation exists, not the humanitarian. The politicization of the situation - that’s normal; but the humanitarian situation don’t exist, either today or in the past,” Syrian president Bashar Al-Assad said to interviewers. Destroyed buildings can be seen in the background of the clip. - Sky News UK
