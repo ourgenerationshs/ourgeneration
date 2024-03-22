@@ -4,7 +4,7 @@ title: "Comparing Gun Laws in Foreign Countries to the United States"
 subtitle: ""
 author: Sophia Huang
 categories: ["Gun Violence"]
-image: assets/images/History of Earthquakes around the world.jpeg
+image: assets/images/gunschools.png
 tags: [featured]
 ---
 
