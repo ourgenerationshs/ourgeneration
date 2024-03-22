@@ -4,7 +4,7 @@ title: "Gradual Uptick"
 subtitle: ""
 author: Joyce Rizko
 categories: ["Gun Violence"]
-image: assets/images/History of Earthquakes around the world.jpeg
+image: assets/images/gunup.png
 tags: [featured]
 ---
 Per Maslow’s hierarchy of needs, self-preservation lies near the bottom; demonstrating that humans yearn for safety above just about all else – especially through firearms. In 2022, 45% of households in the United States owned at least one gun; this number was last reached in 2012 after the 2011 Tucson Shooting. Due to wars and exposure to violence, many think safety means having the power to fight back. This belief causes a spike in gun sales after every shooting, and, consequently, a rise in the stocks of companies dealing in firearms.
