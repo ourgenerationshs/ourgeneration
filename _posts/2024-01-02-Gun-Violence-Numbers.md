@@ -4,7 +4,7 @@ title: "Gun violence in the U.S.: By the numbers"
 subtitle: ""
 author: Sophia Zhou
 categories: ["Gun Violence"]
-image: assets/images/guninfo.jpeg
+image: assets/images/guninfo.png
 tags: [featured]
 ---
 
