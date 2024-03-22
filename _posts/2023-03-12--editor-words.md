@@ -5,7 +5,7 @@ subtitle: "On February 6th, 2023, two devastating earthquakes struck Turkey at i
 author: Chanah Yin, Melody Yu
 categories: [Earthquakes in Turkey/Environmental Issues]
 image: assets/images/earthintro.png
-tags: [featured]
+tags: []
 ---
 # The Kahramanmaras Earthquake
 

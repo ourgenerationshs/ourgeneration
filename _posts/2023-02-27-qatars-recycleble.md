@@ -5,7 +5,7 @@ subtitle: ""
 author: Brian Yu
 categories: [World Cup and Worker's Rights]
 image: assets/images/stadium.jpg
-tags: featured
+tags: 
 ---
 
 Stadium 974 is one of the most unique stadiums ever built, and it is important to consider its impact on sustainability when looking at the broader construction of stadiums in general. As one of the stadiums for the FIFA World Cup, Stadium 974 witnessed Korea’s loss to Brazil and elimination, Serbia failing to advance after losing 2-3 to Switzerland, and Poland narrowly making the round of 16 after a losing to the t eventual champion Argentina. As these moments are dramatic and historic in their own way, Stadium 974 is equally historic in its advancement of sustainable stadiums.
