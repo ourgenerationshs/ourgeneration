@@ -1,7 +1,7 @@
 ---
 title: "January 2024 Issue: Gun Violence"
 layout: default
-image: assets/images/INTROIMAGE_frontpage.jpeg
+image: assets/images/guninfo.png
 permalink: "/gun-violence"
 author: Chanah Yin,  Melody Yu
 ---
