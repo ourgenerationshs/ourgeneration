@@ -8,6 +8,7 @@ image: assets/images/guninfo.png
 tags: [featured]
 ---
 
-<iframe src="https://drive.google.com/file/d/1G2NJMRcPhV1cUfJxzso73HWW_oKL75o_/view?usp=sharing") frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://drive.google.com/file/d/1G2NJMRcPhV1cUfJxzso73HWW_oKL75o_/preview" height="100%" width="100%" frameBorder="2" scrolling="auto" ></iframe>
+
 
 Written by Sophia Zhou
