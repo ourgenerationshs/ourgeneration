@@ -16,7 +16,10 @@ Openly-traded firearm companies gain incredible amounts of money after every mas
 Firearm companies have gained exorbitant amounts of money as people buy more guns post-shootings. With the growing and constant fear of a shooter, whether that be at school or the park, citizens feel the need to protect themselves. The growing distrust in the police force only adds to this. People feel the need to turn to the cause of their worries in order to live their life with some feeling of comfort and security. Should mass shootings die down, this might mean a disastrous fate for firearm companies.
 
 <small> Sources: </small>
+
 <small>Luscombe, Belinda. "Mass Shootings Are a Crisis. So Why Are Gunmakers Stocks Rising?" Time, 26 May 2021, https://time.com/6185520/mass-shootings-gunmakers/. Accessed 19 April 2023.</small>
+
 <small>"Percentage of Households in the United States Owning a Firearm." Statista, 2022, https://www.s tatista.com/statistics/249740/percentage-of-households-in-the-united-states-owning-a-firearm/. Accessed 19 April 2023. </small>
+
 
 Written by Joyce Rizko
