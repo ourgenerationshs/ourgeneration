@@ -5,7 +5,7 @@ subtitle: ""
 author: Eliška Levisohn
 categories: [Earthquakes in Turkey/Environmental Issues]
 image: assets/images/History of Earthquakes around the world.jpeg
-tags: [featured]
+tags: []
 ---
 
 Small earthquakes are quite common worldwide; a million or so happen each year. However, certain places are more susceptible to earthquakes due to their location near the seven major tectonic plates. As countries in those areas have continued to develop, new technologies lessen the damage and give citizens earthquake warnings, lowering mortality rates. So although high-magnitude earthquakes remain dangerous, the amount of damage they inflict is dependent on access to technologies to prevent earthquakes and governmental measures taken towards minimizing the dame of earthquakes. This is shown through the comparison of Japan and Haiti.
