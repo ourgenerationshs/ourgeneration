@@ -15,7 +15,7 @@ author: Chanah Yin,  Melody Yu
       		</p>
 					<h2 class="display-4 mb-4 article-headline">{{ page.title }}</h2>
 										<div class="d-flex align-items-center">
-											<span class="text-muted d-block mt-1">Editted by {{ page.author }} </span>
+											<span class="text-muted d-block mt-1">Edited by {{ page.author }} </span>
 										</div>
 				</div>
                 {% if page.image %}
