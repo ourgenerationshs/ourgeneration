@@ -4,7 +4,7 @@ title: "Firing Blasters in Cold Blood"
 subtitle: ""
 author: Oneal Wang
 categories: ["Gun Violence"]
-image: assets/images/gunstarwars.jpeg
+image: assets/images/gunstarwars.png
 tags: [featured]
 ---
 
