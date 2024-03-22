@@ -4,7 +4,7 @@ title: "Introduction"
 subtitle: ""
 author: Chanah Yin, Melody Yu
 categories: [Earthquakes in Turkey/Environmental Issues]
-image: assets/images/INTROIMAGE_frontpage.jpeg
+image: assets/images/earthintro.png
 tags: [featured]
 ---
 # The Kahramanmaras Earthquake
