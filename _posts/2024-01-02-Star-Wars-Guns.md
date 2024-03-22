@@ -4,7 +4,7 @@ title: "Firing Blasters in Cold Blood"
 subtitle: ""
 author: Oneal Wang
 categories: ["Gun Violence"]
-image: assets/images/History of Earthquakes around the world.jpeg
+image: assets/images/gunstarwars.jpeg
 tags: [featured]
 ---
 
