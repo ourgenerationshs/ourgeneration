@@ -1,9 +1,9 @@
 ---
 title: "January 2024 Issue: Gun Violence"
 layout: default
-image: assets/images/guninfo.png
+image: assets/images/gunissue.png
 permalink: "/gun-violence"
-author: Chanah Yin,  Melody Yu
+author: Chanah Yin, Melody Yu
 ---
 
 <div class="container">
