@@ -1,9 +1,9 @@
 ---
-title: "March 2023 Issue: Earthquakes in Turkey and Environmental Issues"
+title: "January 2024 Issue: Gun Violence"
 layout: default
-image: assets/images/INTROIMAGE_frontpage.jpeg
-permalink: "/current"
-author: Chanah Yin,  Melody Yu
+image: assets/images/gunissue.png
+permalink: "/gun-violence"
+author: Chanah Yin, Melody Yu
 ---
 
 <div class="container">
@@ -15,7 +15,7 @@ author: Chanah Yin,  Melody Yu
       		</p>
 					<h2 class="display-4 mb-4 article-headline">{{ page.title }}</h2>
 										<div class="d-flex align-items-center">
-											<span class="text-muted d-block mt-1">Editted by {{ page.author }} </span>
+											<span class="text-muted d-block mt-1">Edited by {{ page.author }} </span>
 										</div>
 				</div>
                 {% if page.image %}
@@ -30,7 +30,7 @@ author: Chanah Yin,  Melody Yu
 
 <div class="container">
     <div class="row justify-content-center">
-        {% assign pages_list = site.categories["Earthquakes in Turkey/Environmental Issues"] %}
+        {% assign pages_list = site.categories["Gun Violence"] %}
         {% for post in pages_list %}
         {% if post.title != null %}
           {% if group == null or group == post.group %}
