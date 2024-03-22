@@ -18,11 +18,7 @@ author: Chanah Yin,  Melody Yu
 											<span class="text-muted d-block mt-1">Edited by {{ page.author }} </span>
 										</div>
 				</div>
-                {% if page.image %}
-				<div class="col-md-6 pr-0 align-self-center">
-					<img class="rounded" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
-				</div>
-                {% endif %}
+              
 			</div>
 		</div>
 	</div>
