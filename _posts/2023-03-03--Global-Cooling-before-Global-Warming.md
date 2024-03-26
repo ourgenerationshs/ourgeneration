@@ -5,7 +5,7 @@ subtitle: ""
 author: Raquel Rybakova
 categories: [Earthquakes in Turkey/Environmental Issues]
 image: assets/images/Global Colling Before Global Warming.jpeg
-tags: [featured]
+tags: []
 ---
 
 This recent cold weather over the West Coast has more disastrous impacts than one may think. Last week, on March 5th, Texas saw snow for the first time in years. California has been hit with a wave of cool weather, causing there to be snow on the Hollywood sign and hail in Newport Beach. This caused a flurry of road closures, as well as many floods and storms. Mudslides, fallen trees, and power outages are only some examples of the environmental destruction that this cold streak weather has caused. For one of the first times in 20 years, Los Angeles’ weather has stayed below 60 degrees for 8 consecutive days. Although this is a delight for skiers, it also indicates the presence of an environmental disaster. Currently, though weather forecasters predict a warming period that will follow the storms, Newport Beach and the Orange County area continue to see downpours, stormy weather, and constant frigid temperature.

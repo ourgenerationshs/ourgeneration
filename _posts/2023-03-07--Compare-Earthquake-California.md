@@ -5,7 +5,7 @@ subtitle: ""
 author: Joyce Rizko
 categories: [Earthquakes in Turkey/Environmental Issues]
 image: assets/images/TurkeyandCaliforniaEarthquakes.jpeg
-tags: [featured]
+tags: []
 ---
 
 Earthquakes prove to be one of the most unique and dangerous natural disasters due to their unpredictability and invisibility. While people do not consistently fear them, even the slightest tremor can lead to panic, especially near fault lines. Fault lines, or the boundaries between tectonic plates, mark the areas that are prone to violent earthquakes. California and Turkey have some of the most relevant fault lines, with the former’s infamous San Andreas Fault and the latter’s North Anatolian Fault. Both fault lines, while similar in some aspects, hold their own secrets and dangers.

@@ -5,7 +5,7 @@ subtitle: ""
 author: Sophia Huang
 categories: [Earthquakes in Turkey/Environmental Issues]
 image: assets/images/Impacts of the Earthquakes in Turkey.jpeg
-tags: [featured]
+tags: []
 ---
 
 On February 6th, 2023, Turkey was hit by a powerful earthquake with a magnitude of 6.9. It struck the eastern province of Van, causing extensive damage to buildings and infrastructure and claiming the lives of at least 45,000 people. The impacts of the earthquake were widespread and impacted many civilians. Many residents were left homeless, without access to necessities such as food or clean water. The earthquake triggered landslides and rockfalls, making rescue efforts difficult and dangerous for first responders.

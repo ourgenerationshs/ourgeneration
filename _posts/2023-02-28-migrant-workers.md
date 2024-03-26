@@ -5,7 +5,6 @@ subtitle: ""
 author: Annie Zhu
 categories: [World Cup and Worker's Rights]
 image: assets/images/abuse.jpeg
-tags: featured
 ---
 
 As one of the most important sporting events in the world, the FIFA World Cup in Qatar had over 5.4 billion viewers. Since the announcement of the Qatar World Cup in December 2010, construction and preparation commenced to make the first FIFA World Cup in the Middle East possible. Immigrants from India and Africa built stadiums, secured safety of the games, and provided service, acting as a crucial factor that allowed the World Cup to take place. A total of two million migrant workers helped to facilitate the process, but among them, over 6,500 people have died due to poor living and working conditions, highlighting the underlying problem behind the World Cup and exposing the larger topic of worker abuse. The FIFA World Cup was not the first example of abuse of migrant workers as the root of the problem can be traced back to the last century.

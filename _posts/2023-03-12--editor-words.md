@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Introduction"
-subtitle: ""
+subtitle: "On February 6th, 2023, two devastating earthquakes struck Turkey at its Syrian border. Following the first magnitude 7.8 earthquake, another magnitude 7.5 earthquake hit nine hours later. "
 author: Chanah Yin, Melody Yu
 categories: [Earthquakes in Turkey/Environmental Issues]
 image: assets/images/earthintro.png
-tags: [featured]
+tags: []
 ---
 # The Kahramanmaras Earthquake
 

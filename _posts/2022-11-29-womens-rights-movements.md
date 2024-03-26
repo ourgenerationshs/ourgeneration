@@ -5,7 +5,7 @@ subtitle: "Historical movements.. "
 author: Sophia H
 categories: [Women's Rights]
 image: assets/images/iran_world.png
-tags: featured
+tags: 
 ---
 
 Throughout history, there have been similar protests for women’s rights to the ones happening in Iran. While there are so many, the mentioned below are some of the more well known movements:

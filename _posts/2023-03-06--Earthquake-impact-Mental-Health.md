@@ -5,7 +5,7 @@ subtitle: ""
 author: Harriet Lai
 categories: [Earthquakes in Turkey/Environmental Issues]
 image: assets/images/Turkey-Syria Earthquake and Its Impact on Mental Health.jpeg
-tags: [featured]
+tags: []
 ---
 
 On February 6, 2023, a catastrophic earthquake changed the lives of millions of people in Turkey and Syria. This earthquake resulted in a death toll of more than 50,000 people, while leaving millions more people homeless. This 7.8 magnitude earthquake will not only lead to years of rebuilding, but also mental health problems for those who survived. Mental health issues are prevalent all around the world. In America, nearly 20% of all adults suffer some form of mental illness with 10 million of them suffering severe mental illness. When someone experiences trauma, they become more vulnerable to developing mental illnesses, making the issue even more prevalent
