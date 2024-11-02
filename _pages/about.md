@@ -17,7 +17,7 @@ permalink: "/team"
 
 
             <div class="pe">
-              <img src="https://inspirecoding.org/assets/images/melody.jpg" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/melody.jpg" alt="Person">
               <div class="p-name">Melody Yu</div>
               <div class="p-des">Editor in Chief</div>
             </div>
@@ -30,7 +30,7 @@ permalink: "/team"
             </div>
 
             <div class="pe">
-              <img src="https://inspirecoding.org/assets/images/sopz.jpg" alt="Person">
+              <img src="{{ site.baseurl }}/assets/images/sopz.jpg" alt="Person">
               <div class="p-name">Sophia Zhou</div>
               <div class="p-des">Executive Editor</div>
             </div>
