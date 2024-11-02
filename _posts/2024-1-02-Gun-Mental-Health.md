@@ -5,7 +5,7 @@ subtitle: ""
 author: Annie Zhu
 categories: ["Gun Violence"]
 image: assets/images/gunhealth.png
-tags: [featured]
+tags: []
 ---
 
 In the United States, the incidence of gun violence has increased to 43,000 deaths every year, an increase of more than 10,000 deaths as compared to a decade ago. This increase causes a pervasive feeling of insecurity and hypervigilance in people, leading to mental health challenges. Examples of improper gun use include mass shootings, gang violence, and police shootings, which all take a toll on the mental health of victims and witnesses. The trauma, fear, and grief associated with gun violence can lead to a range of mental health issues, such as depression, anxiety, post-traumatic stress disorder (PTSD), and substance abuse. In particular, those illnesses cause people to remain vulnerable to trauma for years and damage their nervous systems.

@@ -5,7 +5,7 @@ subtitle: ""
 author: Yusong Liang
 categories: ["Gun Violence"]
 image: assets/images/gunschools.png
-tags: [featured]
+tags: []
 ---
 According to statistical evidence gathered by Sandy Hook Promise, around 12  children die from gun violence everyday in America and 93% of school shooting cases were planned in advance. Moreover, around 20% of the firearm owners who have children confess that they have unlocked firearms at home(Azrael). These shocking data remind the public of the necessity to understand that the gun violence problem happens everyday in both higher or lower schools, threatening students’ lives.
 

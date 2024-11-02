@@ -5,7 +5,7 @@ subtitle: ""
 author: Sophia Huang
 categories: ["Gun Violence"]
 image: assets/images/gunschools.png
-tags: [featured]
+tags: []
 ---
 
 Gun laws are a hotly debated topic around the world, with many countries implementing strict regulations on firearms in order to reduce the incidence of gun-related crime. The United States, however, has historically taken a more liberal approach to gun ownership, with many individuals advocating for their right to bear arms. In this article, we will compare and contrast gun laws in other countries with those in the United States. According to the Gun Violence Archive, there were 43,559 incidents of gun violence in the United States in 2021, resulting in 11,347 deaths and 23,129 injuries. In contrast, countries with stricter gun laws such as Canada and Japan have significantly lower rates of gun violence. Canada had 223 gun-related deaths in 2019, while Japan had only six.
