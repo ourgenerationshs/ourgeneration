@@ -1,7 +1,7 @@
 ---
-title: "January 2024 Issue: Gun Violence"
+title: "Armenian Genocide Issue"
 layout: default
-image: assets/images/gunissue.png
+image: assets/images/armeniangenocide.png
 permalink: "/current"
 author: Chanah Yin, Melody Yu
 ---
@@ -30,7 +30,7 @@ author: Chanah Yin, Melody Yu
 
 <div class="container">
     <div class="row justify-content-center">
-        {% assign pages_list = site.categories["Gun Violence"] %}
+        {% assign pages_list = site.categories["Armenian Genocide"] %}
         {% for post in pages_list %}
         {% if post.title != null %}
           {% if group == null or group == post.group %}
