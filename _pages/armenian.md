@@ -1,7 +1,7 @@
 ---
 title: "Armenian Genocide Issue"
 layout: default
-permalink: "/armenian-genocide"
+permalink: "/armeniangenocide"
 ---
 
 <div class="container">
