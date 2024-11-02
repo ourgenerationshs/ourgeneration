@@ -5,7 +5,7 @@ subtitle: ""
 author: Oneal Wang
 categories: ["Gun Violence"]
 image: assets/images/gunstarwars.png
-tags: [featured]
+tags: []
 ---
 
 Since its debut in 1977, Star Wars has captivated audiences around the world with its advanced technology, unique characters, and unforgettable one-liners. But even as Anakin Skywalker wrestles with Count Dooku over two lightsabers and Luke Skywalker fire the torpedo that destroyed a whole planet, the work (or rather bloodshed) inflicted by blasters remains inconspicuous. In the Star Wars universe, blasters are fictional energy-based weapons powered by an energy cell or power pack. When the trigger is pulled, blasters generate and propel superheated plasma or energy particles from a barrel or emitter as bolts of energy that burn a hole through their victims and cauterize their organs. Despite orchestrating the rise of Star Wars, blasters evolved over time to show the complexity of major protagonists murdering in cold blood on their journey for “the greater good”.
