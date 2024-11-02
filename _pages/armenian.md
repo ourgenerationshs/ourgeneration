@@ -6,7 +6,7 @@ permalink: "/armeniangenocide"
 
 <div class="container">
     <div class="row justify-content-center">
-        <h4 class="font-weight-bold spanborder text-capitalize"><span>Armenian Genoicde Issue</span></h4>
+        <h4 class="font-weight-bold spanborder text-capitalize"><span>Armenian Genocide Issue</span></h4>
         {% assign pages_list = site.categories["Armenian Genocide"] %}
         {% for post in pages_list %}
         {% if post.title != null %}
