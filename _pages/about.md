@@ -17,7 +17,7 @@ permalink: "/team"
 
 
             <div class="pe">
-              <img src="https://inspirecoding.org/assets/images/melodyimg.png" alt="Person">
+              <img src="https://inspirecoding.org/assets/images/melody.png" alt="Person">
               <div class="p-name">Melody Yu</div>
               <div class="p-des">Editor in Chief</div>
             </div>
@@ -33,12 +33,6 @@ permalink: "/team"
               <img src="https://inspirecoding.org/assets/images/sopz.png" alt="Person">
               <div class="p-name">Sophia Zhou</div>
               <div class="p-des">Executive Editor</div>
-            </div>
-
-            <div class="pe">
-              <img src="{{ site.baseurl }}/assets/images/brian.jpeg" alt="Person">
-              <div class="p-name">Brian Yu</div>
-              <div class="p-des">Senior Editor</div>
             </div>
 
             <div class="pe">
@@ -129,21 +123,23 @@ permalink: "/team"
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/annie1.png" alt="Person">
               <div class="p-name">Annie Zhu</div>
-              <div class="p-des">Senior Editor</div>
             </div>
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/shikshaa.jpeg" alt="Person">
               <div class="p-name">Shiksha Anand </div>
-              <div class="p-des">Editor</div>
             </div>
 
             <div class="pe">
               <img src="{{ site.baseurl }}/assets/images/noah.jpeg" alt="Person">
               <div class="p-name">Noah Jimenez</div>
-              <div class="p-des">Communication Director</div>
             </div>
 
+
+            <div class="pe">
+              <img src="{{ site.baseurl }}/assets/images/brian.jpeg" alt="Person">
+              <div class="p-name">Brian Yu</div>
+            </div>
     </div>
 
 
