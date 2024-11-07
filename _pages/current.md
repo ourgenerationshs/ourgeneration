@@ -1,7 +1,7 @@
 ---
 title: "Armenian Genocide Issue"
 layout: default
-image: assets/images/armeniangenocide.png
+image: assets/images/armenianintro.png
 permalink: "/current"
 author: Chanah Yin, Melody Yu
 ---
